@@ -120,10 +120,10 @@ final version of each laboratory and practical assignment and examination.
 
 You will receive rapid feedback on your work through a tool called GatorGrader.
 The course instructor will define GatorGrader checks for each of your laboratory
-and practical assignments and your job will be use a programming language like
-Python to implement a complete solution that passes all of the GatorGrader
-checks. You can learn more about GatorGrader and how it works by visiting the
-following web site.
+and practical assignments and your job will be use web development programming
+languages like HTML and CSS to implement a complete solution that passes all of
+the GatorGrader checks. You can learn more about GatorGrader and how it works by
+visiting the following web site.
 
 https://github.com/GatorEducator/gatorgrader
 
@@ -284,13 +284,13 @@ checkmark-based assessment and feedback from the course instructor.
   https://code.visualstudio.com/
 
 - You will use a terminal window to allows you to execute commands such as the
-  creation of a virtual environment or the execution of a Python program.
-  Students may consider using a customized terminal for their operating system
-  or the integrated terminal in VS Code. Students should work with the course
+  creation of a web server or the rendering of a static web site. Students may
+  consider using a customized terminal for their operating system or the
+  integrated terminal in VS Code. Students should work with the course
   instructor and the student technical leaders to ensure that their chosen
   terminal window will support all of the course activities, such as running a
   web server, generating a web site, starting a Docker container, and running an
-  assessment tool like GatorGrader.
+  project assessment tool like GatorGrader.
 
 - As mentioned throughout this email, we will use Slack to support course
   communication and GitHub to support the delivery of course materials to a
@@ -310,8 +310,8 @@ will be available to help students learn how to use all of these programs.
 
 ## Conclusion
 
-I hope that you are looking forward to exploring Python programming and
-mathematical thinking as much as I am!
+I hope that you are looking forward to exploring web development as much as I
+am!
 
 Throughout this semester you will be given the opportunity to master many
 technical skills in the field of web development, thereby preparing you for
