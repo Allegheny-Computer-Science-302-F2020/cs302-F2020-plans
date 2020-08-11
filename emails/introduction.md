@@ -336,5 +336,5 @@ https://join.slack.com/t/cmpsc302fall2020/signup
 
 Going forward, except in the case of an emergency where we must use email, the
 course will rely on Slack and GitHub for all course announcements and
-discussions. Okay, I hope that you will keep in touch with me throughout the
-Fall 2020 semester!
+discussions. Okay, I hope that you will keep in touch with me throughout both
+the remainder of the summer and the entire Fall 2020 semester!
