@@ -128,11 +128,11 @@ following web site.
 https://github.com/GatorEducator/gatorgrader
 
 Taking inspiration from the principles of specification-based grading, the grade
-that a student receives on the laboratory assignments will have the following
-components:
+that a student receives on the laboratory assignments and the web design
+portfolio will have the following components:
 
   - Percentage of Correct GatorGrader Checks: Students are encouraged to
-    repeatedly try to implement a Python program that passes all of
+    repeatedly try to implement a web-based system that passes all of
     GatorGrader's checks by, for instance, creating a program that produces the
     correct output. Students should also repeatedly revise their technical
     writing to ensure that it also passes all of GatorGrader's checks about, for
@@ -152,13 +152,13 @@ components:
 
   - Mastery of Technical Writing: Students will also receive a checkmark grade
     when the responses to the technical writing questions presented in the
-    writing/reflection.md reveal a mastery of both writing skills and
-    technical knowledge. To receive a checkmark grade, the submitted writing
-    should have correct spelling, grammar, and punctuation in addition to
-    following the rules of Markdown and providing technically accurate
-    answers. Students are encouraged to ask the course instructor or a student
-    technical leader to use the GitHub issue tracker to provide feedback on
-    their mastery of technical writing skills.
+    writing/reflection.md reveal a mastery of both writing skills and technical
+    knowledge. To receive a checkmark grade, the submitted writing should have
+    correct spelling, grammar, and punctuation in addition to following the
+    rules of Markdown and providing technically accurate answers. Students are
+    encouraged to ask the course instructor or a student technical leader to use
+    the GitHub issue tracker to provide feedback on their mastery of technical
+    writing skills.
 
   - Mastery of Technical Knowledge and Skills: Students will also receive a
     checkmark grade when their GitHub repository reveals that they have mastered
@@ -166,12 +166,11 @@ components:
     this project. As a part of this grade, the instructor will assess aspects of
     the project including, but not limited to, the inclusion of effective source
     code comments, creation of effective Git commit messages, correct use of
-    Docker, implementation of an efficient Python program, and correct
-    installation and use of a full-fledge Python development environment.
-    Students are encouraged to ask the course instructor or a student technical
-    leader to use the GitHub issue tracker to provide feedback on how well their
-    work demonstrates mastery of the assignment's technical knowledge and
-    skills.
+    Docker, implementation of an efficient web page, and correct installation
+    and use of a full-fledged web development environment. Students are
+    encouraged to ask the course instructor or a student technical leader to use
+    the GitHub issue tracker to provide feedback on how well their work
+    demonstrates mastery of the assignment's technical knowledge and skills.
 
 The sole grade for a practical assignment will be the GitHub CI Build Status,
 meaning that you will receive either a checkmark or an x for the completion of
