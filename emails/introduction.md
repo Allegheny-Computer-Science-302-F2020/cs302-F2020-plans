@@ -71,32 +71,30 @@ details about your course team assignments after the Fall 2020 semester starts.
 
 ## Learning Activities
 
-This class uses the Python programming language to equip you with the
-mathematical thinking skills that you will need as a software engineer. Through
-the implementation and testing of Python programs, you will learn how to
-characterize and manipulate a wide variety of mathematical objects, such as
-numbers, sets, tuples, and functions. You will complete a wide variety of
-learning activities that will help you to be proficient at:
+This class uses the Markdown, HTML, CSS, and JavaScript programming languages to
+equip you with the technical skills that you will need as a web developer.
+Through the exploration of web development technologies and the creation of a
+web design portfolio, you will:
 
-- Remembering and understanding facts about discrete structures
+- Remember and understand facts about web development
 
-- Applying and analyzing new problems in discrete structures
+- Apply and analyze new problems in web development
 
-- Evaluating new solutions to challenges in discrete structures
+- Evaluate new solutions to the challenges in web development
 
 Some specific activities that you will complete include the following:
 
-- Read one of the course text books to prepare for in-class activities.
+- Read the course text book to prepare for in-class activities.
 
-- Review course slides in advance of hands-on in-class activities.
+- Review the course slides in advance of hands-on in-class activities.
 
-- Watch course videos on YouTube that the instructor creates to guide
-  you through an activity where you apply, analyze, and evaluate new approaches
-  to solving problems with discrete structures.
+- Watch course videos on YouTube that the instructor creates to guide you
+  through an activity where you apply, analyze, and evaluate new approaches to
+  solving problems in the field of web development.
 
 - Participate in online live coding sessions where you use video, audio, and
   text to collaborate in real-time with the course instructor to implement a
-  solution to a Python programming challenge.
+  solution to a web development challenge.
 
 - Participate in remote and socially distanced pair programming sessions with
   (i) other students in the course, (ii) the student technical leaders, and
@@ -107,11 +105,11 @@ Some specific activities that you will complete include the following:
   Slack workspace and during in-class problem solving and discussion sessions.
 
 - Complete short and focused practical assignments that help you to master
-  specific Python programming skills in the field of discrete structures.
+  specific web programming skills using the course's main programming languages.
 
 - Complete extended laboratory assignments that help you to engineer and
   evaluate full-featured solutions to real-world programming challenges using
-  newly developed knowledge about discrete mathematical structures.
+  newly developed knowledge about web development techniques.
 
 ## Project Assessment
 
