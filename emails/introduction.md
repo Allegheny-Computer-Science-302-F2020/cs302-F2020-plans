@@ -1,8 +1,8 @@
-Hello CMPSC 102 Students,
+Hello CMPSC 302 Students,
 
 ## Read This Email Carefully
 
-This email is very long and includes many details about the CMPSC 102 course.
+This email is very long and includes many details about the CMPSC 302 course.
 Instead of bombarding you with many short emails, I decided that it was best to
 write you one long email that you can save and review frequently. Please take
 your time to read and regularly review this email so that you are comfortable
@@ -23,17 +23,17 @@ official course roster on the first day of classes, August 31, 2020.
 Since I want you to stay up-to-date with the planning for our course, I
 encourage you to visit the following GitHub repository for more details:
 
-https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans
+https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans
 
 Even if you do not yet have a GitHub account, you will be able to follow along
-in your web browser to see the planning that I am doing for the CMPSC 102
+in your web browser to see the planning that I am doing for the CMPSC 302
 course.
 
 Since I also want you to be able to easily communicate with me and the other
 students who will be in the course, I have setup a Slack workspace. You can
 sign-up to join the Slack workspace for free at this web site:
 
-https://join.slack.com/t/cmpsc102fall2020/signup
+https://join.slack.com/t/cmpsc302fall2020/signup
 
 If you are not sure how to visit the planning site on GitHub or to signup to our
 Slack workspace, you can reply to this email with your questions. If you get
@@ -247,14 +247,14 @@ checkmark-based assessment and feedback from the course instructor.
 ## Technologies for Learning About Discrete Structures
 
 - **IMPORTANT**: All students must have a department approved laptop to take the
-  CMPSC 102 course. You can learn whether or not your laptop meets the
+  CMPSC 302 course. You can learn whether or not your laptop meets the
   guidelines for being a department approved laptop by visiting this web site:
 
   https://www.cs.allegheny.edu/resources/laptops/
 
   **IMPORTANT**: If your laptop has Windows 10 Home then it DOES NOT meet the
   requirements for a department approved laptop. Students who plan to use
-  Windows for the completion of work in CMPSC 102 must have Windows 10 64-bit
+  Windows for the completion of work in CMPSC 302 must have Windows 10 64-bit
   Pro, Enterprise, or Education.
 
 - You will use Docker Desktop to run programs that the course instructor
@@ -344,12 +344,12 @@ before, I decided that it was better to send you one detailed email than to send
 multiple short emails. Don't forget that you can follow along with the planning
 for the course by visiting the following GitHub repository:
 
-https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans
+https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans
 
 I also encourage you to signup for our Slack workspace and to begin a discussion
 with me and your classmates by clicking the following link.
 
-https://join.slack.com/t/cmpsc102fall2020/signup
+https://join.slack.com/t/cmpsc302fall2020/signup
 
 Going forward, except in the case of an emergency where we must use email, the
 course will rely on Slack and GitHub for all course announcements and
