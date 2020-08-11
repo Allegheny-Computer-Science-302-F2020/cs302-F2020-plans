@@ -45,7 +45,7 @@ Before I start to explain the details of this course and the way in which I will
 teach it, I want to be upfront about the fact that some learning activities that
 you will participate in this semester will involve remote interactions. With
 that said, I'm confident that you will receive a top-notch introduction to
-discrete structures through these remote learning opportunities! I also want to
+web development through these remote learning opportunities! I also want to
 stress that learning how to work in a remote fashion will make you more
 competitive for securing a position at a technology company. If you have any
 questions about remote learning, I hope that you will ask them in a public
@@ -56,7 +56,7 @@ channel in Slack --- I am glad to address any concerns that you have!
 There is one course textbook:
 
 - Fundamentals of Web Development (2nd Edition) by Randy Connolly and Ricardo
-  Hoar, Available at: https://is.gd/5JbSoD
+  Hoar, available at: https://is.gd/5JbSoD
 
 ## Course Teams
 
@@ -78,7 +78,7 @@ web design portfolio, you will:
 
 - Remember and understand facts about web development
 
-- Apply and analyze new problems in web development
+- Apply and analyze new technologies in web development
 
 - Evaluate new solutions to the challenges in web development
 
@@ -101,8 +101,8 @@ Some specific activities that you will complete include the following:
   (iii) the course instructor as you refine your technical knowledge and skills
   in the context of a programming task or a laboratory or practical assignment.
 
-- Ask and answer technical questions about discrete structures in the course's
-  Slack workspace and during in-class problem solving and discussion sessions.
+- Ask and answer technical questions about web development in the course's Slack
+  workspace and during in-class problem solving and discussion sessions.
 
 - Complete short and focused practical assignments that help you to master
   specific web programming skills using the course's main programming languages.
@@ -182,7 +182,7 @@ the issue tracker. Students should ask questions about their grade for any
 project in GitHub so as to facilitate an effective conversation about the
 submitted deliverables and to ensure that a student can ultimately master all of
 the technical knowledge and skills developed as part of that assignment's
-exploration of a specific topic in the field of discrete structures.
+exploration of a specific topic in the field of web development.
 
 ## Project Feedback
 
@@ -238,7 +238,7 @@ technical question. At the end of the week, students will use GitHub and a text
 editor to submit an answer to the question, for which they will receive an
 checkmark-based assessment and feedback from the course instructor.
 
-## Technologies for Learning About Discrete Structures
+## Technologies for Learning About Web Development
 
 - **IMPORTANT**: All students must have a department approved laptop to take the
   CMPSC 302 course. You can learn whether or not your laptop meets the
@@ -314,13 +314,13 @@ I hope that you are looking forward to exploring Python programming and
 mathematical thinking as much as I am!
 
 Throughout this semester you will be given the opportunity to master many
-technical skills in the field of discrete structures, thereby preparing you for
+technical skills in the field of web development, thereby preparing you for
 upcoming courses and an internship in the technology field. We will be using
-state-of-the-art technology to design and implement Python programs that solve
-problems by applying your knowledge of discrete mathematics. One way that the
-course will prepare you for work in a STEM field is through the use of
-cutting-edge remote collaboration tools such as YouTube videos and live streams,
-GitHub, and Slack.
+state-of-the-art technology to design and implement mobile-ready web sites that
+leverage the most recent advances in CSS and JavaScript. One way that the course
+will prepare you for work in a STEM field is through the use of cutting-edge
+remote collaboration tools such as YouTube videos and live streams, GitHub, and
+Slack.
 
 Again, I recognize that this email is long and very detailed! As I mentioned
 before, I decided that it was better to send you one detailed email than to send
