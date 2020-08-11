@@ -53,13 +53,10 @@ channel in Slack --- I am glad to address any concerns that you have!
 
 ## Course Textbooks
 
-There are two course textbooks:
+There is one course textbook:
 
-- Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math
-  Featuring Python by Allan M. Stavely, Available at: https://is.gd/l5zfpQ
-
-- Doing Math with Python: Use Programming to Explore Algebra, Statistics,
-  Calculus, and More! By Amit Saha, Available at: https://is.gd/IQx79D
+- Fundamentals of Web Development (2nd Edition) by Randy Connolly and Ricardo
+  Hoar, Available at: https://is.gd/5JbSoD
 
 ## Course Teams
 
