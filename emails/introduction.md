@@ -202,10 +202,10 @@ until the issue is closed on GitHub.
 ## Learning Assessments
 
 Students will have numerous opportunities to demonstrate that they have mastered
-the technical knowledge and skills in the field of discrete structures. In
-addition to giving students feedback on all of their in-class, laboratory, and
-practical assignments, the course instructor will invite students to complete
-the following course assessments, thereby better helping them to assess their
+the technical knowledge and skills in the field of web development. In addition
+to giving students feedback on all of their in-class, laboratory, and practical
+assignments, the course instructor will invite students to complete the
+following course assessments, thereby better helping them to assess their
 mastery of course content.
 
 - Short, weekly mastery quizzes that are administered through a web browser and
@@ -231,7 +231,7 @@ examinations and report a percentage grade to a student through GitHub.
 
 Each week of the course will have a guiding technical question designed to focus
 all of the in-class activities and to ensure that students are developing a
-thorough understanding of the key topics in the field of discrete structures.
+thorough understanding of the key topics in the field of web development.
 Students should use their textbooks and the course slides, videos, and live
 coding sessions to develop and submit a comprehensive response for each week's
 technical question. At the end of the week, students will use GitHub and a text
@@ -264,33 +264,22 @@ checkmark-based assessment and feedback from the course instructor.
   **IMPORTANT**: All students are required to run Docker Desktop on their laptop so
   as to ensure that they can run the instructor-provided Docker containers.
 
-- You will use version 3.8 of the Python programming language that you installed
-  on your department approved laptop by using either the Pyenv or Pyenv-win
-  tools that are available for download from GitHub. You can learn more about
-  Python by visiting this web site:
+- You will implement web pages and web-based programs in the following
+  programming languages: Markdown, HTML, CSS, and JavaScript. We will use
+  Markdown and HTML to create the content for our web pages. You will use CSS to
+  add style to the web pages that you create with Markdown and CSS. Finally, you
+  will use JavaScript and JavaScript frameworks to further improve the styling
+  of your site and to add additional interactivity options.
 
-  https://www.python.org/
-
-  You can learn more about Pyenv and Pyenv-win by visiting these web sites:
-
-  https://github.com/pyenv/pyenv
-
-  https://github.com/pyenv-win/pyenv-win
-
-- You will use the Poetry tool for managing the Python package and dependencies
-  that you need to install for each laboratory or practical assignment. You can
-  learn more about Poetry and its features by visiting this web site:
-
-  https://python-poetry.org/
-
-- You will use the VS Code text editor when you need to implement and run a
-  Python program and write technical documentation in Markdown. Students who
-  want to pair program with the course instructor, one of the student technical
-  leaders, or another student in the class should also use VS Code's Live Share
-  feature. Although students may elect to use a different text editor than VS
-  Code, the course instructor and the student technical leaders will only be
-  available for remote pair programming and debugging through VS Code. You can
-  learn more about VS Code by visiting this web site:
+- You will use the VS Code text editor when you need to implement a web page
+  using the aforementioned programming languages and write technical
+  documentation in Markdown. Students who want to pair program with the course
+  instructor, one of the student technical leaders, or another student in the
+  class should also use VS Code's Live Share feature. Although students may
+  elect to use a different text editor than VS Code, the course instructor and
+  the student technical leaders will only be available for remote pair
+  programming and debugging through VS Code. You can learn more about VS Code by
+  visiting this web site:
 
   https://code.visualstudio.com/
 
@@ -300,8 +289,8 @@ checkmark-based assessment and feedback from the course instructor.
   or the integrated terminal in VS Code. Students should work with the course
   instructor and the student technical leaders to ensure that their chosen
   terminal window will support all of the course activities, such as running a
-  Python program, starting a Docker container, and running an assessment tool
-  like GatorGrader.
+  web server, generating a web site, starting a Docker container, and running an
+  assessment tool like GatorGrader.
 
 - As mentioned throughout this email, we will use Slack to support course
   communication and GitHub to support the delivery of course materials to a
