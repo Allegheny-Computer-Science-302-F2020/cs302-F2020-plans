@@ -23,6 +23,8 @@
       aforementioned characteristics.
     - Uses the most appropriate web development technology in order to achieve
       the desired layout and display all the site's content.
+    - Features content consisting of text, audio, and video that adheres to a
+      consistent theme.
     - Correctly displays the site's content on a wide variety of devices,
       including, but not limited to, laptops, desktops, tablets, and mobile
       phones.
