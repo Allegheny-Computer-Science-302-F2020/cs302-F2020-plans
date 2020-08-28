@@ -44,20 +44,23 @@ in the Department of Computer Science.
 
 ## First Week of Class
 
-Since there are many students who are interested in taking this class and yet
+Since there are some students who are interested in taking this class and yet
 are still on the course waiting list due to the College's registration
 procedure, I don't yet know how many students must fit into our classroom at the
 same time. Moreover, until I add everyone to the class, I will not be able to
 fairly divide all students into groups that will meet in person according to a
 set schedule, thereby ensuring that we never exceed the room limit for our
-classroom and that you are safer during the Fall 2020 semester.
+classroom and that you are safer during the Fall 2020 semester. Finally, there
+are some students who are currently on the course roster who may change their
+status as to whether they are learning remotely or on campus.
 
 Therefore, to ensure that you are all as safe as possible during the first week
-of classes, I will be holding all classes, which are scheduled for M/W/F 10:20
-AM - 11:10 AM, through a Google Meet link that I will provide on Monday morning
-of next week.
+of classes, I will be holding all classes, which are scheduled for T/Th 9:35 AM
+- 10:50 AM, through a Google Meet link that I will provide on Tuesday morning of
+next week.
 
-Before you click this link, please make sure that you take the following steps:
+Before you click this link for the Google Meet, please make sure that you take
+the following steps:
 
 -- Ensure that you have headphones connected to your laptop and that you are
 able to hear sound through your headphones when you use Google Meet. Please note
