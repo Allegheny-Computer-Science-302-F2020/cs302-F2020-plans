@@ -17,15 +17,18 @@
       logic, recursion, and other features of the chosen language in a way that
       passes the test suite, works efficiently, and conveys the intended purpose
       of the component.
-  - A learner will write a complete web site that:
+  - A learner will implement a finished web site that:
     - Consists of between one and five hundred lines of source code that is
-      logically organized into separate components that feature all of the
+      logically organized into separate components that each feature all the
       aforementioned characteristics.
-    - Correctly displays on a wide variety of devices, including, but not
-      limited to, laptops, desktops, tablets, and mobile phones.
+    - Uses the most appropriate web development technology in order to achieve
+      the desired layout and display all the site's content.
+    - Correctly displays the site's content on a wide variety of devices,
+      including, but not limited to, laptops, desktops, tablets, and mobile
+      phones.
     - Takes into account user preferences and demographics, thereby ensuring
-      that it is accessible and in adherence to the cultural expectations of the
-      intended audience.
+      that it is both accessible and in adherence to the cultural expectations
+      of the intended audience.
 
 - **Using Web Development Tools**:
   - A learner will use a web development environment to complete these tasks
