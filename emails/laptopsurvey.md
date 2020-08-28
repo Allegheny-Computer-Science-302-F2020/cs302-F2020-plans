@@ -105,7 +105,7 @@ outsiders will enter our class or be able to record your video. By keeping your
 video enabled it will allow me and the other students in the class to see who is
 talking and who is currently engaged in the course.
 
-During the first three classes, please keep in mind the following points:
+During the first two classes, please keep in mind the following points:
 
 -- I will be recording from my home studio which means that you will not be able
 to find me in my office in Alden Hall to ask me questions about your laptop or
@@ -137,12 +137,15 @@ class you will be completing activities that are guided by specialized YouTube
 videos and live streaming sessions through either YouTube Live or Google Meet.
 
 We will have all of our course's laboratory and practical sessions through
-either YouTube Live or Google Meet. The student technical leaders and I will be
-available to answer your questions about an assignment through YouTube, Google
-Meet, and/or Slack. You will also actively participate in these sessions by, for
-instance, live coding with me and the other student technical leaders, asking
-questions, participating in interactive quizzes, and collaboratively working
-through each of the steps in the assignment.
+either YouTube Live or Google Meet. I will be available to answer your questions
+about an assignment through YouTube, Google Meet, and/or Slack. You will also
+actively participate in these sessions by, for instance, live coding with me and
+the other students in the course, asking questions, participating in interactive
+quizzes, and collaboratively working through each of the steps in the
+assignment. Please note that there are currently no student technical leaders
+assigned to this course and thus there may be times when you need to wait before
+I will be able to help by collaborating through programs like YouTube or VS
+Code.
 
 During the laboratory and practical sessions you will be able to pair program
 with me and the other student technical leaders through programs like VS Code. I
