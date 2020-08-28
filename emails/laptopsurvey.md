@@ -119,11 +119,11 @@ right-hand side of your video.
 
 -- Throughout the semester I will use specialized broadcasting software that
 will allow me to seamlessly change between different scenes and sources during
-our classroom and laboratory and practical sessions. If something goes wrong
-with the broadcasting software and you cannot see my video in Google Meet, then
-please use a `*` in the Google Meet chat. Once you receive my acknowledgment you
-can explain what problem you are experiencing so that I can resolve it quickly
-and move on with the class.
+our classroom and laboratory sessions. If something goes wrong with the
+broadcasting software and you cannot see my video in Google Meet, then please
+use a `*` in the Google Meet chat. Once you receive my acknowledgment you can
+explain what problem you are experiencing so that I can resolve it quickly and
+move on with the class.
 
 ## Remainder of the Fall 2020 Semester
 
@@ -136,23 +136,23 @@ you will normally have one in-person class with me per week. When you are not in
 class you will be completing activities that are guided by specialized YouTube
 videos and live streaming sessions through either YouTube Live or Google Meet.
 
-We will have all of our course's laboratory and practical sessions through
-either YouTube Live or Google Meet. I will be available to answer your questions
-about an assignment through YouTube, Google Meet, and/or Slack. You will also
-actively participate in these sessions by, for instance, live coding with me and
-the other students in the course, asking questions, participating in interactive
-quizzes, and collaboratively working through each of the steps in the
-assignment. Please note that there are currently no student technical leaders
-assigned to this course and thus there may be times when you need to wait before
-I will be able to help by collaboration with you through YouTube or Slack.
+We will have all of our course's laboratory sessions through either YouTube Live
+or Google Meet. I will be available to answer your questions about an assignment
+through YouTube, Google Meet, and/or Slack. You will also actively participate
+in these sessions by, for instance, live coding with me and the other students
+in the course, asking questions, participating in interactive quizzes, and
+collaboratively working through each of the steps in the assignment. Please note
+that there are currently no student technical leaders assigned to this course
+and thus there may be times when you need to wait before I will be able to help
+by collaboration with you through YouTube or Slack.
 
-During the laboratory and practical sessions you will be able to pair program
-with me and/or the other students in the course through programs like VS Code. I
-will also release a survey every week in which you can request that I make a
-customized YouTube video about any topic that I covered during the recently
-completed week. Through my web site and our course's GitHub repositories, every
-week you will have access to all the assignment sheets, reading assignments,
-course slides, Python source code, and any accompanying data or other materials.
+During the laboratory sessions you will be able to pair program with me and/or
+the other students in the course through programs like VS Code. I will also
+release a survey every week in which you can request that I make a customized
+YouTube video about any topic that I covered during the recently completed week.
+Through my web site and our course's GitHub repositories, every week you will
+have access to all the assignment sheets, reading assignments, course slides,
+Python source code, and any accompanying data or other materials.
 
 ## Encouragement for the Fall 2020 Semester
 
@@ -226,12 +226,14 @@ through your headphones. As your schedule permits during the remainder of the
 summer, I encourage you to please explore the various programs I mentioned in my
 previous email so that you are able to participate in all course activities.
 
+## Web Development Technologies
+
 Here is a summary of the technologies that we will use during the semester.
 Please make sure that, during the first week of the semester, you have taken any
 necessary steps to install these programs on your laptop. If you are not able to
 install these programs on your laptop, then I will be available through Google
-Meet during office hours, virtual classroom sessions, and the laboratory and
-practical sessions to ensure that your system is correctly up and running!
+Meet during office hours, virtual classroom sessions, and the laboratory
+sessions to ensure that your system is correctly up and running!
 
 - You will use Docker Desktop to run programs that the course instructor
   provides to you through a Docker container. To learn more about Docker, you
@@ -243,8 +245,8 @@ practical sessions to ensure that your system is correctly up and running!
 
   https://www.cs.allegheny.edu/canirundocker/
 
-  **IMPORTANT**: All students are required to run Docker Desktop on their laptop so
-  as to ensure that they can run the instructor-provided Docker containers.
+  **IMPORTANT**: All students are required to run Docker Desktop on their laptop
+  so as to ensure that they can run the instructor-provided Docker containers.
 
 - You will implement web pages and web-based programs in the following
   programming languages: Markdown, HTML, CSS, and JavaScript. We will use
@@ -256,23 +258,24 @@ practical sessions to ensure that your system is correctly up and running!
 - You will use the VS Code text editor when you need to implement a web page
   using the aforementioned programming languages and write technical
   documentation in Markdown. Students who want to pair program with the course
-  instructor, one of the student technical leaders, or another student in the
-  class should also use VS Code's Live Share feature. Although students may
-  elect to use a different text editor than VS Code, the course instructor and
-  the student technical leaders will only be available for remote pair
-  programming and debugging through VS Code. You can learn more about VS Code by
-  visiting this web site:
+  instructor or (when appropriate and required by the assignment) another
+  student in the class should also use VS Code's Live Share feature, including
+  the features that let you share a terminal window or a running server.
+  Although students may elect to use a different text editor than VS Code, the
+  course instructor and the student technical leaders will only be available for
+  remote pair programming and debugging through VS Code. You can learn more
+  about VS Code by visiting this web site:
 
   https://code.visualstudio.com/
 
-- You will use a terminal window to allows you to execute commands such as the
+- You will use a terminal window that allows you to execute commands such as the
   creation of a web server or the rendering of a static web site. Students may
   consider using a customized terminal for their operating system or the
   integrated terminal in VS Code. Students should work with the course
-  instructor and the student technical leaders to ensure that their chosen
-  terminal window will support all of the course activities, such as running a
-  web server, generating a web site, starting a Docker container, and running an
-  project assessment tool like GatorGrader.
+  instructor to ensure that their chosen terminal window will support all of the
+  course activities, such as running a web server, generating a web site,
+  starting a Docker container, committing source code to a GitHub repository,
+  and running an project assessment tool like GatorGrader.
 
 ## Please Stay in Touch
 
@@ -283,4 +286,4 @@ are best discussed in a private manner, then please send them to me as a direct
 message. Unless there is an absolute need for you to do so, please refrain from
 sending me emails and instead focus on communicating with me through Slack.
 Finally, don't forget to be on the look out for the Google Meet link that I will
-send you on Monday morning! You can use this to join our first class on Monday.
+send you on Tuesday morning! You can use this to join our first class on Tuesday.
