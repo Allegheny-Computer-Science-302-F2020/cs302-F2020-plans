@@ -2,32 +2,30 @@
 
 - **Performing Web Development**:
   - A learner will write a component in Markdown, HTML, CSS, and/or JavaScript
-    that contains up to one-hundred lines and have the following
+    that contains up to one-hundred lines of source code and has the following
     characteristics:
-    - Has function and variable names that adhere to an industry-standard coding
-      style.
-    - Has descriptive comments for both the function declaration and the
-      function's code that adhere to an industry-standard coding style.
+    - Has variable names that adhere to an industry-standard coding style.
+    - Has descriptive comments for both the component declaration and the
+      component's code that adhere to an industry-standard coding style.
     - Features a source code format that adheres to an industry-standard coding
       style.
-    - Passes a test suite and furnishes a correct implementation of the
-      specification for the component.
-    - Performs the specified operation in an efficient fashion, as determined
-      through experiments that evaluate the function's performance.
+    - Passes a test suite, thereby demonstrating that it furnishes a correct
+      implementation of the component's specification.
+    - Performs the specified operations in an efficient fashion, as determined
+      through experiments that evaluate the component's performance.
     - Correctly uses assignment statements, iteration constructs, conditional
-      logic, and recursion in a way that passes the test suite, works
-      efficiently, and conveys the intended purpose of the function.
-    - Correctly uses discrete structures such as numbers, tuples, sets, streams,
-      and sequences in a way that passes the test suite, works efficiently, and
-      conveys the intended purpose of the function.
-  - A learner will write Python programs consisting of between one and five
-    hundred lines of source code that correctly solve problems using discrete
-    structures.
+      logic, recursion, and other features of the chosen language in a way that
+      passes the test suite, works efficiently, and conveys the intended purpose
+      of the component.
+  - A learner will write a complete web site consisting of between one and five
+    hundred lines of source code that correctly displays on a wide variety of
+    devices, including, but not limited to, laptops, desktops, tablets, and
+    mobile phones.
 
-- **Using Python Programming Tools**:
-  - A learner will use a Python programming environment to complete these tasks
-    while implementing a Python program consisting of between one and five
-      hundred lines of code:
+- **Using Web Development Tools**:
+  - A learner will use a web development environment to complete these tasks
+    while implementing a web site consisting of between one and five hundred
+    lines of code:
     - Install, upgrade, and use the Python 3.8 interpreter to run a Python
       program.
     - Create a virtual environment with Poetry and use it to run a Python
