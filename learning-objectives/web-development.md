@@ -17,23 +17,30 @@
       logic, recursion, and other features of the chosen language in a way that
       passes the test suite, works efficiently, and conveys the intended purpose
       of the component.
-  - A learner will write a complete web site consisting of between one and five
-    hundred lines of source code that correctly displays on a wide variety of
-    devices, including, but not limited to, laptops, desktops, tablets, and
-    mobile phones.
+  - A learner will write a complete web site that:
+    - Consists of between one and five hundred lines of source code that is
+      logically organized into separate components that feature all of the
+      aforementioned characteristics.
+    - Correctly displays on a wide variety of devices, including, but not
+      limited to, laptops, desktops, tablets, and mobile phones.
+    - Takes into account user preferences and demographics, thereby ensuring
+      that it is accessible and in adherence to the cultural expectations of the
+      intended audience.
 
 - **Using Web Development Tools**:
   - A learner will use a web development environment to complete these tasks
     while implementing a web site consisting of between one and five hundred
       lines of code:
     - Install, upgrade, and use the programs needed for developing web sites
-      that use Markdown, HTML, CSS, and JavaScript.
-    - Use Docker to run without error a program a Python program in an isolated
-      container that can run the test suite and autograding tools.
+      that consist of Markdown, HTML, CSS, and JavaScript.
+    - Use Docker to run, in an isolated container and without error, either a
+      component of a web site or a web development tool.
+    - Use Docker to run, in an isolated container and without error, both a test
+      suite and autograding tools.
     - Use testing to detect a failure in a web site and then effectively use
       tools like a text editor and a terminal window to find and fix the
       failure, ultimately confirming that the web site no longer contains the
-      failure and the fix did not compromise other functions in the program.
+      failure and the fix did not compromise other functions in the web site.
 
 - **Using Version Control Systems**:
   - A learner will use the GitHub version control system in the following
