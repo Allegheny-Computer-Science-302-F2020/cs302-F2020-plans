@@ -187,28 +187,13 @@ that you best succeed in this course you must take ownership of your education
 by completing all of the work on time and communicating effectively with me.
 Again, since there are no student technical leaders for this course, you should
 expect that there may be some delay in me getting back to you with a response to
-the questions that you have about the course content and assignments.
+the questions that you have about either the course content or assignments.
 
 ## Reminders
 
 Here are some key points I want you to remember from my previous email:
 
--- 1) To date, I anticipate that I can add everyone to the course who is on the
-waiting list. If you completed the waiting list form, then you should be able to
-add the course at the start of the Fall 2020 semester. To add the course, you
-will need to confirm with me by writing me an email by the first or second class
-that you want to join the course. I will then use the "Add Authorization"
-feature of Self Service during the first week of classes and you should then see
-that CMPSC 302 Fall 2020 is visible in your course roster.
-
-Please note that, by default, I will not automatically add the name of each
-student on the waiting list to the course roster. This is because not everyone
-on the waiting list may still want to take CMPSC 302. Again, before the first
-two class periods I will need you to write to me by email to express your
-confirmed interest in taking the CMPSC 302 Fall 2020 course. Please refer to the
-previous content about the first week of classes for more details on this issue.
-
--- 2) Since I want you to stay up-to-date with the planning for our course, I
+-- 1) Since I want you to stay up-to-date with the planning for our course, I
 encourage you to visit the following GitHub repository for more details:
 
 https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans
@@ -217,7 +202,7 @@ If you have not already checked the GitHub repository, then please do so! I will
 also be updating the content in this repository throughout this week and then
 during the entirety of the Fall 2020 academic semester.
 
--- 3) Since I also want you to be able to easily communicate with me and the
+-- 2) Since I also want you to be able to easily communicate with me and the
 other students who will be in the course, I have setup a Slack workspace. You
 can sign-up to join the Slack workspace for free at this web site:
 
@@ -229,7 +214,7 @@ earliest convenience. Instead of using email for communication during the Fall
 In addition to informally chatting with the other people in the course, you can
 also start asking me questions through Slack at any time!
 
--- 4) All students must have a department approved laptop to take the CMPSC 302
+-- 3) All students must have a department approved laptop to take the CMPSC 302
 course. You can learn whether or not your laptop meets the guidelines for being
 a department approved laptop by visiting this web site:
 
@@ -261,44 +246,33 @@ practical sessions to ensure that your system is correctly up and running!
   **IMPORTANT**: All students are required to run Docker Desktop on their laptop so
   as to ensure that they can run the instructor-provided Docker containers.
 
-- You will use version 3.8 of the Python programming language that you installed
-  on your department approved laptop by using either the Pyenv or Pyenv-win
-  tools that are available for download from GitHub. You can learn more about
-  Python by visiting this web site:
+- You will implement web pages and web-based programs in the following
+  programming languages: Markdown, HTML, CSS, and JavaScript. We will use
+  Markdown and HTML to create the content for our web pages. You will use CSS to
+  add style to the web pages that you create with Markdown and CSS. Finally, you
+  will use JavaScript and JavaScript frameworks to further improve the styling
+  of your site and to add additional interactivity options.
 
-  https://www.python.org/
-
-  You can learn more about Pyenv and Pyenv-win by visiting these web sites:
-
-  https://github.com/pyenv/pyenv
-
-  https://github.com/pyenv-win/pyenv-win
-
-- You will use the Poetry tool for managing the Python package and dependencies
-  that you need to install for each laboratory or practical assignment. You can
-  learn more about Poetry and its features by visiting this web site:
-
-  https://python-poetry.org/
-
-- You will use the VS Code text editor when you need to implement and run a
-  Python program and write technical documentation in Markdown. Students who
-  want to pair program with the course instructor, one of the student technical
-  leaders, or another student in the class should also use VS Code's Live Share
-  feature. Although students may elect to use a different text editor than VS
-  Code, the course instructor and the student technical leaders will only be
-  available for remote pair programming and debugging through VS Code. You can
-  learn more about VS Code by visiting this web site:
+- You will use the VS Code text editor when you need to implement a web page
+  using the aforementioned programming languages and write technical
+  documentation in Markdown. Students who want to pair program with the course
+  instructor, one of the student technical leaders, or another student in the
+  class should also use VS Code's Live Share feature. Although students may
+  elect to use a different text editor than VS Code, the course instructor and
+  the student technical leaders will only be available for remote pair
+  programming and debugging through VS Code. You can learn more about VS Code by
+  visiting this web site:
 
   https://code.visualstudio.com/
 
 - You will use a terminal window to allows you to execute commands such as the
-  creation of a virtual environment or the execution of a Python program.
-  Students may consider using a customized terminal for their operating system
-  or the integrated terminal in VS Code. Students should work with the course
+  creation of a web server or the rendering of a static web site. Students may
+  consider using a customized terminal for their operating system or the
+  integrated terminal in VS Code. Students should work with the course
   instructor and the student technical leaders to ensure that their chosen
   terminal window will support all of the course activities, such as running a
-  Python program, starting a Docker container, and running an assessment tool
-  like GatorGrader.
+  web server, generating a web site, starting a Docker container, and running an
+  project assessment tool like GatorGrader.
 
 ## Please Stay in Touch
 
