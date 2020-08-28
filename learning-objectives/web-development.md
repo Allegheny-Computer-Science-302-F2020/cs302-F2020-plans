@@ -46,6 +46,13 @@
       tools like a text editor and a terminal window to find and fix the
       failure, ultimately confirming that the web site no longer contains the
       failure and the fix did not compromise other functions in the web site.
+    - Use a text editor to participate in remote web development by effectively
+      completing the following tasks:
+        - Creating and accepting an invitation to collaboratively implement a
+          web site.
+        - Collaboratively sharing a terminal window with a remote developer.
+        - Running a web server and then sharing accessing to that server with a
+          remote developer.
 
 - **Using Version Control Systems**:
   - A learner will use the GitHub version control system in the following
