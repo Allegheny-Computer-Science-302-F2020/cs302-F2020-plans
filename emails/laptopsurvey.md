@@ -144,11 +144,10 @@ the other students in the course, asking questions, participating in interactive
 quizzes, and collaboratively working through each of the steps in the
 assignment. Please note that there are currently no student technical leaders
 assigned to this course and thus there may be times when you need to wait before
-I will be able to help by collaborating through programs like YouTube or VS
-Code.
+I will be able to help by collaboration with you through YouTube or Slack.
 
 During the laboratory and practical sessions you will be able to pair program
-with me and the other student technical leaders through programs like VS Code. I
+with me and/or the other students in the course through programs like VS Code. I
 will also release a survey every week in which you can request that I make a
 customized YouTube video about any topic that I covered during the recently
 completed week. Through my web site and our course's GitHub repositories, every
@@ -165,8 +164,10 @@ technologies that we will use this semester. I find remote collaboration and
 learning a lot of fun and I anticipate that you will also find it exciting and
 effective!
 
-I must move several of the CMPSC 302 course activities to an online venue so as
-to ensure that I keep you as safe as is possible and that we all comply with the
+Importantly, please note that it will never be possible for more than half of
+the class to meet in the classroom to which we were assigned. As such, I must
+move several of the CMPSC 302 course activities to an online venue so as to
+ensure that I keep you as safe as is possible and that we all comply with the
 official state and CDC guidelines concerning, for instance, the occupancy level
 of our classroom space and the number of feet between each person who is inside
 of the classroom. While this may not be ideal, it is an absolute necessity.
@@ -183,8 +184,10 @@ the Fall 2020 semester. It is important that you watch all of the videos,
 participate in the YouTube Live streams and Google Meets, use all of the
 required software, and attend all of the in-person classroom sessions. To ensure
 that you best succeed in this course you must take ownership of your education
-by completing all of the work on time and communicating effectively with me and
-the student technical leaders who are a part of the course's support team.
+by completing all of the work on time and communicating effectively with me.
+Again, since there are no student technical leaders for this course, you should
+expect that there may be some delay in me getting back to you with a response to
+the questions that you have about the course content and assignments.
 
 ## Reminders
 
