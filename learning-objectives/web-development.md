@@ -51,7 +51,7 @@
         - Creating and accepting an invitation to collaboratively implement a
           web site.
         - Collaboratively sharing a terminal window with a remote developer.
-        - Running a web server and then sharing accessing to that server with a
+        - Running a web server and then sharing the access to that server with a
           remote developer.
 
 - **Using Version Control Systems**:
