@@ -1,7 +1,7 @@
 # Learning Objectives for Web Development
 
 - **Performing Web Development**:
-  - A learner will write a component in Markdown, HTML, CSS, and/or JavaScript
+  - A learner will create a component in Markdown, HTML, CSS, and/or JavaScript
     that contains up to one-hundred lines of source code and has the following
     characteristics:
     - Has variable names that adhere to an industry-standard coding style.
@@ -17,6 +17,9 @@
       logic, recursion, and other features of the chosen language in a way that
       passes the test suite, works efficiently, and conveys the intended purpose
       of the component.
+    - Uses precise written content to defend the validity of the design,
+      implementation, and testing decisions that the learner made when creating
+      the web component.
   - A learner will implement a finished web site that:
     - Consists of between one and five hundred lines of source code that is
       logically organized into separate components that each feature all the
@@ -31,6 +34,9 @@
     - Takes into account user preferences and demographics, thereby ensuring
       that it is both accessible and in adherence to the cultural expectations
       of the intended audience.
+    - Uses precise written content to defend the validity of the design,
+      implementation, and testing decisions that the learner made when creating
+      the entire web site.
 
 - **Using Web Development Tools**:
   - A learner will use a web development environment to complete these tasks
