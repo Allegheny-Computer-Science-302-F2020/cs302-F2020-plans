@@ -56,8 +56,8 @@ status as to whether they are learning remotely or on campus.
 
 Therefore, to ensure that you are all as safe as possible during the first week
 of classes, I will be holding all classes, which are scheduled for T/Th 9:35 AM
-- 10:50 AM, through a Google Meet link that I will provide on Tuesday morning of
-next week.
+to 10:50 AM, through a Google Meet link that I will provide on Tuesday morning
+of next week.
 
 Before you click this link for the Google Meet, please make sure that you take
 the following steps:
@@ -82,7 +82,7 @@ settings will ensure that you can read all of the video content that I stream to
 you and that everyone else in the class can clearly see your face. If you find
 that your connection drops regularly or the video becomes choppy or irregular
 then you can pick a lower level of video quality and see if that helps. You
-should only stop transmitting or receiving video when your laptop or Internet
+should only stop transmitting or receiving video when your laptop and Internet
 connection absolutely do not support any type of video streaming.
 
 After clicking this link, please make sure that you take the following steps:
@@ -94,7 +94,7 @@ your laptop is not transmitted into the meeting.
 that will appear when you hover your mouse near the center of my video.
 
 -- If you want to ask a question or participate in a discussion, then you need
-to type a `*` into the chat window of Google Meet. I will use this symbol as an
+to type a `*` into the chat window of Google Meet. We will use this symbol as an
 indicator that the student who typed it wants to contribute to our conversation
 by making a point or asking a question.
 
@@ -136,7 +136,7 @@ you will normally have one in-person class with me per week. When you are not in
 class you will be completing activities that are guided by specialized YouTube
 videos and live streaming sessions through either YouTube Live or Google Meet.
 
-We will have all of our course's laboratory sessions through either YouTube Live
+We will hold all of our course's laboratory sessions through either YouTube Live
 or Google Meet. I will be available to answer your questions about an assignment
 through YouTube, Google Meet, and/or Slack. You will also actively participate
 in these sessions by, for instance, live coding with me and the other students
@@ -144,7 +144,7 @@ in the course, asking questions, participating in interactive quizzes, and
 collaboratively working through each of the steps in the assignment. Please note
 that there are currently no student technical leaders assigned to this course
 and thus there may be times when you need to wait before I will be able to help
-by collaboration with you through YouTube or Slack.
+by collaborating with you through YouTube or Slack.
 
 During the laboratory sessions you will be able to pair program with me and/or
 the other students in the course through programs like VS Code. I will also
@@ -187,7 +187,7 @@ that you best succeed in this course you must take ownership of your education
 by completing all of the work on time and communicating effectively with me.
 Again, since there are no student technical leaders for this course, you should
 expect that there may be some delay in me getting back to you with a response to
-the questions that you have about either the course content or assignments.
+the questions that you have about either the course content or the assignments.
 
 ## Reminders
 
@@ -232,8 +232,8 @@ Here is a summary of the technologies that we will use during the semester.
 Please make sure that, during the first week of the semester, you have taken any
 necessary steps to install these programs on your laptop. If you are not able to
 install these programs on your laptop, then I will be available through Google
-Meet during office hours, virtual classroom sessions, and the laboratory
-sessions to ensure that your system is correctly up and running!
+Meet during office hours, virtual classroom sessions, and the laboratory session
+to ensure that your system is correctly up and running!
 
 - You will use Docker Desktop to run programs that the course instructor
   provides to you through a Docker container. To learn more about Docker, you
@@ -245,8 +245,9 @@ sessions to ensure that your system is correctly up and running!
 
   https://www.cs.allegheny.edu/canirundocker/
 
-  **IMPORTANT**: All students are required to run Docker Desktop on their laptop
-  so as to ensure that they can run the instructor-provided Docker containers.
+  Please remember that all students are required to run Docker Desktop on their
+  laptop so as to ensure that they can run the instructor-provided Docker
+  containers.
 
 - You will implement web pages and web-based programs in the following
   programming languages: Markdown, HTML, CSS, and JavaScript. We will use
