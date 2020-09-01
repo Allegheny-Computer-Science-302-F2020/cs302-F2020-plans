@@ -15,8 +15,8 @@ in-person classroom session, practical assignments have the following goals:
   the textbook.
 
 - Equip a learner to solve new problems in the field of web development by
-  applying &mdash; in a new way &mdash; your knowledge of the facts, techniques,
-  and rules of the programming languages used for mobile-ready web design.
+  applying &mdash; in a new way &mdash; their knowledge of the facts, techniques,
+  and rules of the chosen programming languages.
 
 Building on the concepts and source code in the textbook, practical assignments
 invite you to complete tasks like the following:
