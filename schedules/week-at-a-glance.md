@@ -27,12 +27,13 @@
   - Teach key facts and ideas to support weekly activities
   - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
-  - Observe demonstration of laboratory assignments and/or web design portfolio
+  - Observe student demonstration of laboratory assignments and/or web design portfolio
 
 #### Team A
 
 - Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
+- Give a demonstration of your laboratory assignment and/or web design portfolio
 - Work on the laboratory assignment from the previous week
 
 #### Team B
@@ -66,20 +67,21 @@
   - Teach key facts and ideas to support weekly activities
   - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
-  - Observe demonstration of laboratory assignments and/or web design portfolio
+  - Observe student demonstration of laboratory assignments and/or web design portfolio
 
 #### Team A
 
 - *Do not* attend the in-person classroom session in Alden Hall
-- Work on the current laboratory and practical assignments
 - Work on the current practical assignment assigned on Tuesday of this week
+- Work on the current laboratory assignments assigned on Tuesday of this week
 
 #### Team B
 
 - Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
-- Work on the practical assignment assignment for this week
+- Give a demonstration of your laboratory assignment and/or web design portfolio
 - Work on the laboratory assignment assignment for this week
+- Work on the practical assignment assignment for this week
 
 ## Friday
 
@@ -89,12 +91,12 @@
 
 - Assessments and Feedback:
   - Administer the course wellness survey through Google Forms
-  - Administer the weekly technical quiz through Google Forms
+  - Administer the weekly technical assessment through Google Forms
 
 #### Teams A and B
 
-- Take the course wellness survey (two minutes) and the weekly technical quiz
-  (eight minutes)
+- Take the course wellness survey (two minutes) and the weekly technical
+  assessment (eight minutes)
 
 ### End of the Day
 
