@@ -152,7 +152,7 @@ release a survey every week in which you can request that I make a customized
 YouTube video about any topic that I covered during the recently completed week.
 Through my web site and our course's GitHub repositories, every week you will
 have access to all the assignment sheets, reading assignments, course slides,
-Python source code, and any accompanying data or other materials.
+source code, and any accompanying data or other materials.
 
 ## Encouragement for the Fall 2020 Semester
 
