@@ -21,17 +21,17 @@ in-person classroom session, practical assignments have the following goals:
 Building on the concepts and source code in the textbook, practical assignments
 invite you to complete tasks like the following:
 
-- Use a text editor and a terminal window to implement and/or modify the
-  provided implementation of a web site component from the textbook, explaining,
-  for instance, your modification's impact on the original component and the new
-  behavior of the modified component.
+- Use a text editor, a terminal window, and a web browser to implement and/or
+  modify the provided implementation of a web site component from the textbook,
+  explaining, for instance, your modification's impact on the original component
+  and the new behavior of the modified component.
 
-- Use a text editor and a terminal window to design, implement, and use a new
-  component of a web site, describing its appearance and behavior when provided
-  with different user interactions and explaining why you decided to implement
-  it in the chosen fashion.
+- Use a text editor, a terminal window, and a web browser to design, implement,
+  and use a new component of a web site, describing its appearance and behavior
+  when provided with different user interactions and explaining why you decided
+  to implement it in the chosen fashion.
 
-- Use a text editor and a terminal window to write and run (manual or automated)
-  test cases for a component of a web site, describing its appearance and
-  behavior when provided with different inputs and explaining why you decided to
-  implement it in the chosen fashion.
+- Use a text editor, a terminal window, and a web browser to write and run
+  (manual or automated) test cases for a component of a web site, describing its
+  appearance and behavior when provided with different inputs and explaining why
+  you decided to implement it in the chosen fashion.
