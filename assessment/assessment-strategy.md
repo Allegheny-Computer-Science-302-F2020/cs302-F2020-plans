@@ -18,9 +18,9 @@
 
 ## Assignment Types
 
-- [Technical Challenge](../assignments/technical-challenge.md)
 - [Practical Assignment](../assignments/practical-assignment.md)
 - [Laboratory Assignment](../assignments/laboratory-assignment.md)
+- [Web Design Portfolio](../assignments/design-portfolio.md)
 
 ## Assessment Overview
 
