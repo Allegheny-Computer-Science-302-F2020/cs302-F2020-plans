@@ -7,6 +7,7 @@
 * [Assessment Strategy Details](#assessment-strategy-details)
   + [Laboratory Assignments](#laboratory-assignments)
   + [Practical Assignments](#practical-assignments)
+  + [Web Design Portfolio](#web-design-portfolio)
 * [Assessment Delivery](#assessment-delivery)
 * [Advance Feedback on an Assignment](#advance-feedback-on-an-assignment)
 * [Calculating Your Grade](#calculating-your-grade)
@@ -103,6 +104,20 @@ software engineering and discrete structures as evidenced by:
     GitHub Actions will only be a ✔ if the Python source code and technical
     writing in the GitHub repository pass all of both the GatorGrader checks and
     any additional checks.
+
+### Web Design Portfolio
+
+Since the web design portfolio is an independent student-driven initiative, the
+course instructor will assess it through a series of design meetings during the
+in-person classroom session for your team. You will give a demonstration of your
+mobile-ready website and receive a checkmark grade if it is clear that you made
+progress since the last demonstration and there is evidence that certain web
+site components are working according to their specification. Upon submission of
+your web design portfolio at the end of the semester, you will receive a
+percentage grade that will reflect the completion, overall quality, and deployment
+status of your web site. The percentage grade will also reflect the quality of
+the technical writing in your reflection document that describes your web design
+process and critiques the overall quality of your mobile-ready web site.
 
 ## Assessment Delivery
 
