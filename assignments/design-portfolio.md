@@ -18,26 +18,19 @@ semester semester, the web design portfolio has the following goals:
   mobile-ready web site, either starting from scratch or from learner-chosen
   template.
 
-Building on the concepts and source code in the textbook, practical assignments
-invite you to complete tasks like the following:
+Building on the concepts and source code in the textbook, practical assignments,
+and laboratory assignments, the web design portfolio invites you to complete
+tasks like the following:
 
-- Use a text editor and a terminal window to write and run (manual or automated)
-  test cases for a component of a web site, describing its appearance and
-  behavior when provided with different inputs and explaining why you decided to
-  implement it in the chosen fashion.
+- Compare and contrast different web development frameworks and libraries,
+  ultimately picking the best one to fulfill stated objectives for a
+  mobile-ready web site.
 
-- After using a text editor and a terminal window to refactor the implementation
-  of a web site component to ensure that it strikes the right balance between
-  understandability, generalizability, and specialization, justify and
-  reflectively examine your decisions in technical writing.
-
-- Use a text editor and a terminal window to design, implement, test, and use an
-  experimentation framework to run experiments to evaluate a web site component.
-  Using the data collected from the experiments, evaluate the implementation of
-  the web site component as you consider, for instance, its efficiency and
-  correctness.
+- Using pre-existing web development frameworks and libraries, pick the best web
+  site components and then use them to build and test a mobile-ready web site.
 
 - After using a text editor and a terminal window to design, implement, test,
-  and use an integrated mobile-ready web site that features user documentation,
-  a test suite, and a complete web-based interface, critique the quality of the
-  web site based on pre-defined criteria involving aesthetics and accessibility.
+  use, and deploy an integrated mobile-ready web site that features user
+  documentation, a test suite, and a complete web-based interface, critique the
+  quality of the web site based on pre-defined criteria involving aesthetics and
+  accessibility.
