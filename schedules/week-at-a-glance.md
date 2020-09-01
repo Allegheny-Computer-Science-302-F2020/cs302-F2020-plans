@@ -30,8 +30,7 @@
 
 - Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
-- Work on the practical assignment assignment for this week
-- Work on the laboratory and practical assignment from the previous week
+- Work on the laboratory assignment from the previous week
 
 #### Team B
 
