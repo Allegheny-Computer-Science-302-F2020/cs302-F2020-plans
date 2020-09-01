@@ -32,8 +32,8 @@
       including, but not limited to, laptops, desktops, tablets, and mobile
       phones.
     - Takes into account user preferences and demographics, thereby ensuring
-      that it is both accessible and in adherence to the cultural expectations
-      of the intended audience.
+      that it is both accessible and in adherence to both the cultural
+      expectations and legal and ethical frameworks of the intended audience.
     - Uses precise written content to defend the validity of the design,
       implementation, and testing decisions that the learner made when creating
       the entire web site.
