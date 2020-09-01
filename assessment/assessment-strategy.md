@@ -120,18 +120,18 @@ process and critiques the overall quality of your mobile-ready web site.
 ## Assessment Delivery
 
 The course instructor invites students to incrementally complete all of the
-learning objectives for a technical challenge, laboratory assignment, and
-practical assignment. As long as your work passes all of the GatorGrader checks
-before an assignment's deadline, you will receive full credit for that part of
-your assignment grade. After the deadline for project submission, all grades for
-the course projects will be reported through a student's GitHub repository using
-either messages in the GitHub repository's commit log, issues raised in the
-issue tracker, or comments on a pull request in the GitHub repository. Students
-should ask questions about their grade for any project on GitHub so as to
-facilitate an effective conversation about the submitted deliverables and to
-ensure that a student can ultimately master all of the technical knowledge and
-skills developed as part of that assignment's exploration of a specific topic in
-the field of discrete structures.
+learning objectives for a practical assignment and laboratory assignment. As
+long as your work passes all of the GatorGrader checks before an assignment's
+deadline, you will receive full credit for that part of your assignment grade.
+After the deadline for project submission, all grades for the course projects
+will be reported through a student's GitHub repository using either messages in
+the GitHub repository's commit log, issues raised in the issue tracker, or
+comments on a pull request in the GitHub repository. Students should ask
+questions about their grade for any project on GitHub so as to facilitate an
+effective conversation about the submitted deliverables and to ensure that a
+student can ultimately master all of the technical knowledge and skills
+developed as part of that assignment's exploration of a specific topic in the
+field of discrete structures.
 
 ## Advance Feedback on an Assignment
 
