@@ -34,9 +34,9 @@
     - Takes into account user preferences and demographics, thereby ensuring
       that it is both accessible and in adherence to both the cultural
       expectations and legal and ethical frameworks of the intended audience.
-    - Uses precise written content to defend the validity of the design,
-      implementation, and testing decisions that the learner made when creating
-      the entire web site.
+    - Features external documentation that uses precise written content to
+      defend the validity of the design, implementation, and testing decisions
+      that the learner made when creating the entire web site.
 
 - **Using Web Development Tools**:
   - A learner will use a web development environment to complete these tasks
