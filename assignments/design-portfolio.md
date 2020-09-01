@@ -6,6 +6,14 @@
 Building on material in the textbooks and the content covered during the entire
 semester semester, the web design portfolio has the following goals:
 
+- Help a learner to demonstrate that they can remember learned material by
+  recalling facts, basic concepts, and answers to questions presented in the
+  textbook.
+
+- Allow a learner to demonstrate an understanding of facts and ideas by
+  translating, interpreting, and stating the main technical ideas presented in
+  the textbook.
+
 - Equip a learner to solve new problems in the field of web development by
   applying &mdash; in a new way &mdash; your knowledge of the facts, techniques,
   and rules of the programming languages used for mobile-ready web design.
