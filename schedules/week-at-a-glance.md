@@ -97,6 +97,8 @@
 
 - Take the course wellness survey (two minutes) and the weekly technical
   assessment (eight minutes)
+- Must complete both the wellness survey and the weekly technical assessment
+  before 5 pm on Friday
 
 ### End of the Day
 
