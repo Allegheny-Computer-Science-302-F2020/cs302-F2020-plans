@@ -36,8 +36,8 @@ following:
   the implementation of the web site component as you consider, for instance,
   its efficiency, correctness, and design.
 
-- After using a text editor and a terminal window to design, implement, test,
-  and use an integrated mobile-ready web site that features user documentation,
-  a test suite, and a complete web-based interface, critique the overall quality
-  of the web site based on pre-defined criteria involving aesthetics and
-  accessibility.
+- After using a text editor, a terminal window, and a web browser to design,
+  implement, test, and use an integrated mobile-ready web site that features
+  user documentation, a test suite, and a complete web-based interface, critique
+  the overall quality of the web site based on pre-defined criteria involving
+  aesthetics and accessibility.
