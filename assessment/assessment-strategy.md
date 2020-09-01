@@ -62,7 +62,7 @@ following components:
   GatorGrader checks that automatically pass inside of a GitHub Actions build.
 
 - **GitHub Actions Build Status of Either ✔  or ❌**: Since additional checks on
-  the Python source code and/or technical writing are encoded in GitHub Action
+  the source code and/or technical writing are encoded in GitHub Action
   workflows and, moreover, all of the GatorGrader checks are also run in GitHub
   Actions, your work will receive a checkmark grade if the last
   before-the-deadline build in GitHub Actions passes and a ✔  appears in their
