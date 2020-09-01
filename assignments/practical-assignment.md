@@ -12,9 +12,9 @@ in-person classroom session, practical assignments have the following goals:
 - Allow a learner to demonstrate an understanding of facts and ideas by translating,
   interpreting, and stating the main technical ideas presented in the textbooks.
 
-- Equip a learner to solve new problems in the field of discrete structures by
+- Equip a learner to solve new problems in the field of web development by
   applying &mdash; in a new way &mdash; your knowledge of the facts, techniques,
-  and rules of discrete mathematics and Python programming.
+  and rules of the programming languages used for mobile-ready web design.
 
 Building on the concepts and source code in the textbook, practical assignments
 invite you to complete tasks like the following:
