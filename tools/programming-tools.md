@@ -31,7 +31,7 @@ Since the [2019 Stack Overflow Technology
 Survey](https://insights.stackoverflow.com/survey/2019#technology) reports that
 Visual Studio Code (or VSCode) is the most popular development environment, you
 will exclusively use it to complete Python programming and technical writing
-projects in the field of discrete structures. In addition to providing a wide
+projects in the field of web development. In addition to providing a wide
 variety of program analysis, debugging, linting, and testing tools, VSCode
 supports live share programming where two programmers can work together in the
 same development environment! VSCode also features an extremely popular and
