@@ -23,20 +23,20 @@
 - In-person class activities for [Team A](../teams/team-a.md):
   - Introduce the technical question for the week
   - Teach key facts and ideas to support weekly activities
-  - Introduce the technical challenge due next week at this time
+  - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
 
 #### Team A
 
-- Submit the technical challenge from the previous week
+- Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
-- Work on the technical challenge assignment for this week
+- Work on the practical assignment assignment for this week
 - Work on the laboratory and practical assignment from the previous week
 
 #### Team B
 
 - *Do not* attend the in-person classroom session in Alden Hall
-- Work on the technical challenge from the previous week
+- Work on the practical assignment from the previous week
 - Work on the laboratory and practical assignment from the previous week
 
 ### Remote Laboratory Session 3:00 PM - 4:50 PM
@@ -62,20 +62,20 @@
 - In-person class activities for [Team B](../teams/team-b.md):
   - Introduce the technical question for the week
   - Teach key facts and ideas to support weekly activities
-  - Introduce the technical challenge due next week at this time
+  - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
 
 #### Team A
 
 - *Do not* attend the in-person classroom session in Alden Hall
 - Work on the current laboratory and practical assignments
-- Work on the current technical challenge assigned on Monday of this week
+- Work on the current practical assignment assigned on Monday of this week
 
 #### Team B
 
-- Submit the technical challenge from the previous week
+- Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
-- Work on the technical challenge assignment for this week
+- Work on the practical assignment assignment for this week
 - Work on the current laboratory and practical assignments
 
 ## Friday
