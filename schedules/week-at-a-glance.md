@@ -36,7 +36,7 @@
 
 - *Do not* attend the in-person classroom session in Alden Hall
 - Work on the practical assignment from the previous week
-- Work on the laboratory and practical assignment from the previous week
+- Work on the laboratory assignment from the previous week
 
 ### Remote Laboratory Session 3:00 PM - 4:50 PM
 
@@ -68,14 +68,14 @@
 
 - *Do not* attend the in-person classroom session in Alden Hall
 - Work on the current laboratory and practical assignments
-- Work on the current practical assignment assigned on Monday of this week
+- Work on the current practical assignment assigned on Tuesday of this week
 
 #### Team B
 
 - Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
 - Work on the practical assignment assignment for this week
-- Work on the current laboratory and practical assignments
+- Work on the laboratory assignment assignment for this week
 
 ## Friday
 
