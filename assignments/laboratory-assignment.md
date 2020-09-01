@@ -20,8 +20,9 @@ goals:
   effectiveness, and correctness of a web site component implemented in a
   programming language.
 
-Building on the concepts and source code in the textbook, practical assignments
-invite you to complete tasks like the following:
+Building on the concepts and source code in the textbook and practical
+assignments, laboratory assignments invite you to complete tasks like the
+following:
 
 - Use a text editor and a terminal window to write and run (manual or automated)
   test cases for a component of a web site, describing its appearance and
