@@ -47,7 +47,7 @@ Taking inspiration from the principles of [specification-based
 grading](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422),
 the grade that a student receives on a laboratory assignment will be based on
 whether or not it meets the standards for technical work in the fields of
-software engineering and discrete structures. Instead of receiving a single
+software engineering and web development. Instead of receiving a single
 numerical or letter grade for this assignment, your grade will have the
 following components:
 
@@ -94,7 +94,7 @@ Again taking inspiration from the principles of [specification-based
 grading](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422),
 the grade that a student receives a practical assignment will be based on
 whether or not it meets the standards for technical work in the fields of
-software engineering and discrete structures as evidenced by:
+software engineering and web development as evidenced by:
 
 - **GitHub Actions Build Status of Either ✔  or ❌**: Your work will receive a ✔
   if the last before-the-deadline build in GitHub Actions passes and a ✔ appears
@@ -131,7 +131,7 @@ questions about their grade for any project on GitHub so as to facilitate an
 effective conversation about the submitted deliverables and to ensure that a
 student can ultimately master all of the technical knowledge and skills
 developed as part of that assignment's exploration of a specific topic in the
-field of discrete structures.
+field of web development.
 
 ## Advance Feedback on an Assignment
 
