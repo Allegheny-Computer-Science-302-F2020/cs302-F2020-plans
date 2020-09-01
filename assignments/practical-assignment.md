@@ -3,14 +3,16 @@
 - **Assigned**: At the end of an in-person classroom session for a specific team
 - **Due**: At the start of the remote practical session one week after it was assigned
 
-Building on material in the textbooks and the content covered during that day's
+Building on material in the textbook and the content covered during that day's
 in-person classroom session, practical assignments have the following goals:
 
-- Help a learner to demonstrate that you can remember learned material by recalling
-  facts, basic concepts, and answers to questions presented in the textbooks.
+- Help a learner to demonstrate that they can remember learned material by
+  recalling facts, basic concepts, and answers to questions presented in the
+  textbook.
 
-- Allow a learner to demonstrate an understanding of facts and ideas by translating,
-  interpreting, and stating the main technical ideas presented in the textbooks.
+- Allow a learner to demonstrate an understanding of facts and ideas by
+  translating, interpreting, and stating the main technical ideas presented in
+  the textbook.
 
 - Equip a learner to solve new problems in the field of web development by
   applying &mdash; in a new way &mdash; your knowledge of the facts, techniques,
