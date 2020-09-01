@@ -46,6 +46,7 @@ laptops are available for use during class and lab sessions.
 
 - [Practical Assignment](assignments/practical-assignment.md)
 - [Laboratory Assignment](assignments/laboratory-assignment.md)
+- [Web Design Portfolio](assignments/design-portfolio.md)
 - [Bloom's Taxonomy for Activities](taxonomies/blooms-taxonomy.md)
 
 ## Assessment Strategy
