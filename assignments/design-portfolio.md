@@ -30,6 +30,21 @@ Building on the concepts and source code in the textbook, practical assignments,
 and laboratory assignments, the web design portfolio invites you to complete
 tasks like the following:
 
+- Use a text editor, a terminal window, and a web browser to design, implement,
+  and use a new component of a web site, describing its appearance and behavior
+  when provided with different user interactions and explaining why you decided
+  to implement it in the chosen fashion.
+
+- Use a text editor, a terminal window, and a web browser to write and run
+  (manual or automated) test cases for a component of a web site, describing its
+  appearance and behavior when provided with different inputs and explaining why
+  you decided to implement it in the chosen fashion.
+
+- After using a text editor, a terminal window, and a web browser to refactor
+  the implementation of a web site component to ensure that it strikes the right
+  balance between understandability, generalizability, and specialization,
+  justify and reflectively examine your decisions in technical writing.
+
 - Compare and contrast different web development frameworks and libraries,
   ultimately picking the most suitable one to fulfill stated objectives for a
   mobile-ready web site with a specific theme.
