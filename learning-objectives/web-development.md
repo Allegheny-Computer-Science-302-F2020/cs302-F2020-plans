@@ -9,14 +9,14 @@
       component's code that adhere to an industry-standard coding style.
     - Features a source code format that adheres to an industry-standard coding
       style.
-    - Passes a test suite, thereby demonstrating that it furnishes a correct
-      implementation of the component's specification.
+    - Passes a manual or automated test suite, thereby demonstrating that it
+      furnishes a correct implementation of the component's specification.
     - Performs the specified operations in an efficient fashion, as determined
       through experiments that evaluate the component's performance.
     - Correctly uses assignment statements, iteration constructs, conditional
-      logic, recursion, and other features of the chosen language in a way that
-      passes the test suite, works efficiently, and conveys the intended purpose
-      of the component.
+      logic, recursion, and other features of the chosen web development
+      language in a way that passes the test suite, works efficiently, and
+      conveys the intended purpose of the component.
     - Uses precise written content to defend the validity of the design,
       implementation, and testing decisions that the learner made when creating
       the web component.
