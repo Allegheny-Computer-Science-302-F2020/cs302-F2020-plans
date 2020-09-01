@@ -29,27 +29,28 @@ Google Meet. For today's class, please also make sure that:
 
 As I will explain today in class, we are not going to review the syllabus today.
 Instead, I am going to introduce the content in our course planning repository
-and overview the technologies that we will use to investigate discrete
-structures in the Python programming language. Then, I will give you an
-assignment to install various technologies on your laptop. In addition to
-becoming accustomed to the workflow in our course, the main task for this week
-is to ensure that every student can use all of the course technologies on their
-laptop. Okay, I look forward to seeing all of you very soon!
+and overview the technologies that we will use to investigate web development
+and programming languages such as Markdown, HTML, CSS, and JavaScript. Then, I
+will give you an assignment to install various technologies on your laptop. In
+addition to becoming accustomed to the workflow in our course, the main task for
+this week is to ensure that every student can use all of the course technologies
+on their laptop. Okay, I look forward to seeing all of you very soon!
 
 ## Reminder about the First Week of Class
 
-Since there are many students who are interested in taking this class and yet
+Since there are some students who are interested in taking this class and yet
 are still on the course waiting list due to the College's registration
 procedure, I don't yet know how many students must fit into our classroom at the
 same time. Moreover, until I add everyone to the class, I will not be able to
 fairly divide all students into groups that will meet in person according to a
 set schedule, thereby ensuring that we never exceed the room limit for our
-classroom and that you are safer during the Fall 2020 semester.
+classroom and that you are safer during the Fall 2020 semester. Finally, there
+are some students who are currently on the course roster who may change their
+status as to whether they are learning remotely or on campus.
 
 Therefore, to ensure that you are all as safe as possible during the first week
-of classes, I will be holding all classes, which are scheduled for M/W/F 10:20
-AM - 11:10 AM, through a Google Meet link that I will provide on Monday morning
-of next week.
+of classes, I will be holding all classes, which are scheduled for T/Th 9:35 AM
+to 10:50 AM, through a Google Meet link that I provide in this email.
 
 Before you click this link, please make sure that you take the following steps:
 
@@ -96,7 +97,7 @@ outsiders will enter our class or be able to record your video. By keeping your
 video enabled it will allow me and the other students in the class to see who is
 talking and who is currently engaged in the course.
 
-During the first three classes, please keep in mind the following points:
+During the first two classes, please keep in mind the following points:
 
 -- I will be recording from my home studio which means that you will not be able
 to find me in my office in Alden Hall to ask me questions about your laptop or
@@ -118,24 +119,9 @@ and move on with the class.
 
 ## Reminders
 
-Here are some key points I want you to remember from my previous emails:
+Here are some key points I want you to remember from my previous email:
 
--- 1) To date, I anticipate that I can add everyone to the course who is on the
-waiting list. If you completed the waiting list form, then you should be able to
-add the course at the start of the Fall 2020 semester. To add the course, you
-will need to confirm with me by writing me an email by the first or second class
-that you want to join the course. I will then use the "Add Authorization"
-feature of Self Service during the first week of classes and you should then see
-that CMPSC 302 Fall 2020 is visible in your course roster.
-
-Please note that, by default, I will not automatically add the name of each
-student on the waiting list to the course roster. This is because not everyone
-on the waiting list may still want to take CMPSC 302. Again, before the first
-two class periods I will need you to write to me by email to express your
-confirmed interest in taking the CMPSC 302 Fall 2020 course. Please refer to the
-previous content about the first week of classes for more details on this issue.
-
--- 2) Since I want you to stay up-to-date with the planning for our course, I
+-- 1) Since I want you to stay up-to-date with the planning for our course, I
 encourage you to visit the following GitHub repository for more details:
 
 https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans
@@ -144,7 +130,7 @@ If you have not already checked the GitHub repository, then please do so! I will
 also be updating the content in this repository throughout this week and then
 during the entirety of the Fall 2020 academic semester.
 
--- 3) Since I also want you to be able to easily communicate with me and the
+-- 2) Since I also want you to be able to easily communicate with me and the
 other students who will be in the course, I have setup a Slack workspace. You
 can sign-up to join the Slack workspace for free at this web site:
 
@@ -156,7 +142,7 @@ earliest convenience. Instead of using email for communication during the Fall
 In addition to informally chatting with the other people in the course, you can
 also start asking me questions through Slack at any time!
 
--- 4) All students must have a department approved laptop to take the CMPSC 302
+-- 3) All students must have a department approved laptop to take the CMPSC 302
 course. You can learn whether or not your laptop meets the guidelines for being
 a department approved laptop by visiting this web site:
 
