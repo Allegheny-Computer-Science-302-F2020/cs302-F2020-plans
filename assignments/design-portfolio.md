@@ -11,8 +11,9 @@ semester semester, the web design portfolio has the following goals:
   and rules of the programming languages used for mobile-ready web design.
 
 - Afford a learner the opportunity to compare and contrast implementations of
-  web site components in a programming language, enabling you to find evidence
-  to support both the generalization and simplification of a component type.
+  web site components realized in a web programming language, enabling you to
+  find evidence to support both the generalization and simplification of a
+  component type.
 
 - Enable a learner to develop the skills needed to build and deploy their own
   mobile-ready web site, either starting from scratch or from learner-chosen
@@ -27,7 +28,8 @@ tasks like the following:
   mobile-ready web site.
 
 - Using pre-existing web development frameworks and libraries, pick the best web
-  site components and then use them to build and test a mobile-ready web site.
+  site components and then use them to build and test an integrated mobile-ready
+  web site.
 
 - After using a text editor and a terminal window to design, implement, test,
   use, and deploy an integrated mobile-ready web site that features user
