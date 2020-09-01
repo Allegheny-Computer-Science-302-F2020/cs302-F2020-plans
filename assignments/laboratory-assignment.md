@@ -24,11 +24,6 @@ Building on the concepts and source code in the textbook and practical
 assignments, laboratory assignments invite you to complete tasks like the
 following:
 
-- Use a text editor and a terminal window to write and run (manual or automated)
-  test cases for a component of a web site, describing its appearance and
-  behavior when provided with different inputs and explaining why you decided to
-  implement it in the chosen fashion.
-
 - After using a text editor and a terminal window to refactor the implementation
   of a web site component to ensure that it strikes the right balance between
   understandability, generalizability, and specialization, justify and
@@ -37,8 +32,8 @@ following:
 - Use a text editor and a terminal window to design, implement, test, and use an
   experimentation framework to run experiments to evaluate a web site component.
   Using the data collected from the experiments, evaluate the implementation of
-  the web site component as you consider, for instance, its efficiency and
-  correctness.
+  the web site component as you consider, for instance, its efficiency,
+  correctness, and design.
 
 - After using a text editor and a terminal window to design, implement, test,
   and use an integrated mobile-ready web site that features user documentation,
