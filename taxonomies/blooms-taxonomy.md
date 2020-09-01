@@ -57,3 +57,7 @@ free download in English and Spanish.
 - The [laboratory assignments](../assignments/laboratory-assignment.md) invite
   learners to complete tasks primarily at the **applying**, **analyzing**, and
   **evaluating** levels of Bloom's taxonomy.
+
+- The [web design portfolio](../assignments/design-portfolio.md) invites
+  learners to complete tasks primarily at **all levels** of of Bloom's taxonomy
+  as you complete independent work in the field of web development.
