@@ -93,8 +93,8 @@ following components:
 
 Again taking inspiration from the principles of [specification-based
 grading](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422),
-the grade that a student receives on either a practical assignment will be based
-on whether or not it meets the standards for technical work in the fields of
+the grade that a student receives a practical assignment will be based on
+whether or not it meets the standards for technical work in the fields of
 software engineering and discrete structures as evidenced by:
 
 - **GitHub Actions Build Status of Either ✔  or ❌**: Your work will receive a ✔
