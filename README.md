@@ -42,6 +42,16 @@ laptops are available for use during class and lab sessions.
 
 - [Web Development](learning-objectives/web-development.md)
 
+## Assignment Types
+
+- [Practical Assignment](assignments/practical-assignment.md)
+- [Laboratory Assignment](assignments/laboratory-assignment.md)
+- [Bloom's Taxonomy for Activities](taxonomies/blooms-taxonomy.md)
+
+## Assessment Strategy
+
+- [Assessment Strategy](assessment/assessment-strategy.md)
+
 ## Team Assignment
 
 - [Team A](teams/team-a.md)
