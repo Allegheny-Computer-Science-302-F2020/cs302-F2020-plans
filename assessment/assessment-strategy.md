@@ -13,7 +13,6 @@
 * [Calculating Your Grade](#calculating-your-grade)
   + [Laboratory Assignments](#laboratory-assignments-1)
   + [Practical Assignments](#practical-assignments)
-  + [Technical Challenges](#technical-challenges)
 * [Questions About Your Grade](#questions-about-your-grade)
 
 ## Assignment Types
@@ -28,8 +27,8 @@ You will complete all of your course work through an industry standard system
 called [GitHub](https://www.github.com). All students will create a free GitHub
 account at the start of the Fall 2020 semester. You will use this account and
 the GitHub repositories associated with it to receive starter materials and
-submit the final version of each technical challenge, laboratory assignment, and
-practical assignment.
+submit the final version of each practical assignment, laboratory assignment,
+and web design portfolio.
 
 You will receive rapid feedback on your work through a tool called
 [GatorGrader](https://github.com/GatorEducator/gatorgrader). The course
