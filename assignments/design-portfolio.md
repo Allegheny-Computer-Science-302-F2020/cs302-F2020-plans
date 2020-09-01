@@ -1,6 +1,6 @@
 # Web Design Portfolio
 
-- **Assigned**: Near the middle of the academic semester
+- **Assigned**: Before the middle of the academic semester
 - **Due**: At the very end of the academic semester
 
 Building on material in the textbooks and the content covered during the entire
