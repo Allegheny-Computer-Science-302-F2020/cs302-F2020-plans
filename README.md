@@ -34,6 +34,20 @@ laptops are available for use during class and lab sessions.
 - [Email on 08-27-2020: Laptop Survey](emails/laptopsurvey.md)
 - [Email on 09-01-2020: First Class Meeting](emails/firstclassmeeting.md)
 
+## Course Schedules
+
+- [Week At a Glance](schedules/week-at-a-glance.md)
+
 ## Learning Objectives
 
 - [Web Development](learning-objectives/web-development.md)
+
+## Team Assignment
+
+- [Team A](teams/team-a.md)
+- [Team B](teams/team-b.md)
+
+## Resources
+
+- [Programming Tools](tools/programming-tools.md)
+- [Slack Workspace](https://join.slack.com/t/cmpsc302fall2020/signup)
