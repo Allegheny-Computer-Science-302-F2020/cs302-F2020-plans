@@ -1,7 +1,5 @@
 # Week At a Glance
 
-![](../diagrams/Computer-Science-302-Weekly-Overview.png)
-
 ## Monday
 
 ### Start of the Day
