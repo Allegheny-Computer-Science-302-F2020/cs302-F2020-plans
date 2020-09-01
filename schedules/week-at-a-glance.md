@@ -16,9 +16,9 @@
 - Check all weekly tasks on the [GitHub Project
   Board](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans/projects/1)
 
-### In-Person Classroom Session 10:20 AM - 11:10 AM
+### In-Person Classroom Session 09:35 AM - 10:50 AM
 
-## Monday
+## Tuesday
 
 #### Instructor
 
@@ -55,9 +55,9 @@
 - Submit the laboratory assignment that was assigned during the previous week
 - Participate in the laboratory session through Google Meet and Slack
 
-## Wednesday
+## Thursday
 
-### In-Person Classroom Session 10:20 AM - 11:10 AM
+### In-Person Classroom Session 09:35 AM - 10:50 AM
 
 #### Instructor
 
@@ -82,7 +82,7 @@
 
 ## Friday
 
-### Remote Practical Session 10:20 AM - 11:10 AM
+### Start of Day
 
 #### Instructor
 
@@ -90,43 +90,10 @@
   - Administer the course wellness survey through Google Forms
   - Administer the weekly technical quiz through Google Forms
 
-- Preparation for the Live Coding Session:
-  - Release the GitHub classroom link for today's practical assignment
-  - Release the YouTube Live link for today's practical assignment
-  - Publish the practical assignment sheet on the course web site
-
-- Live Coding Session through YouTube Live:
-  - Interactively review select answers to the weekly technical quiz
-  - Briefly review the technical question, topics, and ideas for the week
-  - Conduct a Live Coding session to implement key parts of the practical
-    assignment
-    - Accept the assignment
-    - Create the GitHub repository
-    - Clone the GitHub repository
-    - Repeatedly complete the following tasks:
-      - Confirm that there is a passing build status in the GitHub repository
-      - Create a feature branch in the GitHub repository for new function
-      - Add Python source code to implement the function for the current feature
-      - Confirm that the test suite and linters pass on the modified source code
-      - Answer any recent student questions evident in YouTube Live Chat
-      - Merge the feature branch into the main one in the GitHub repository
-      - Push all modified source code to the main branch in the GitHub
-        repository
-
 #### Teams A and B
 
-- Submit the practical assignment from the previous week
 - Take the course wellness survey (two minutes) and the weekly technical quiz
   (eight minutes)
-- Join the live coding session through the provided YouTube Live link
-- Answer all of the interactive questions that the instructor poses through
-  YouTube Live
-- Accept the practical assignment and follow each step of the assignment
-- Regularly ask the instructor questions about the practical assignment through
-  YouTube Live
-- When the instructor stops live coding every three to five minutes, engage in
-  the YouTube Live chat by asking questions and providing feedback to the
-  instructor and the other students in the course
 
 ### End of the Day
 
