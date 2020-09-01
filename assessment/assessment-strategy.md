@@ -33,13 +33,12 @@ practical assignment.
 
 You will receive rapid feedback on your work through a tool called
 [GatorGrader](https://github.com/GatorEducator/gatorgrader). The course
-instructor will define GatorGrader checks for each type of course assignment and
-your job will be to use a programming language like Python to implement a
-complete solution that passes all of the GatorGrader checks. In addition to
-running the GatorGrader tool on your laptop, you will see the results from
-running GatorGrader checks in the [GitHub
-Actions](https://github.com/features/actions) continuous integration
-environment.
+instructor will define GatorGrader checks for two types of course assignment and
+your job will be to use a web-based programming language to implement a complete
+solution that passes all of the GatorGrader checks. In addition to running the
+GatorGrader tool on your laptop, you will see the results from running
+GatorGrader checks in the [GitHub Actions](https://github.com/features/actions)
+continuous integration environment.
 
 ## Assessment Strategy Details
 
@@ -193,6 +192,8 @@ Laboratory Assignment Grade:
 
 ### Practical Assignments
 
+#### Example One
+
 - Assignment One: ✔
 - Assignment Two: ❌
 - Assignment Three: ❌
@@ -204,7 +205,7 @@ Laboratory Assignment Grade:
         33.33
   ```
 
-### Technical Challenges
+#### Example Two
 
 - Assignment One: ✔
 - Assignment Two: ✔
