@@ -20,25 +20,26 @@ goals:
   effectiveness, and correctness of a web site component implemented in a
   programming language.
 
-Using the Python functions in a textbook as a starting point, laboratory
-assignments invite you to complete tasks like the following:
+Building on the concepts and source code in the textbook, practical assignments
+invite you to complete tasks like the following:
 
-- Use a text editor and a terminal window to design, implement, test, and use a
-  new Python function, recording its output when provided with different inputs
-  and explaining why you decided to implement it in the chosen fashion.
+- Use a text editor and a terminal window to write and run (manual or automated)
+  test cases for a component of a web site, describing its appearance and
+  behavior when provided with different inputs and explaining why you decided to
+  implement it in the chosen fashion.
 
 - After using a text editor and a terminal window to refactor the implementation
-  of a Python function to ensure that it strikes the right balance between
+  of a web site component to ensure that it strikes the right balance between
   understandability, generalizability, and specialization, justify and
   reflectively examine your decisions in technical writing.
 
 - Use a text editor and a terminal window to design, implement, test, and use an
-  experimentation framework to run experiments to evaluate the Python function.
+  experimentation framework to run experiments to evaluate a web site component.
   Using the data collected from the experiments, evaluate the implementation of
-  the Python function as you consider, for instance, its efficiency and
+  the web site component as you consider, for instance, its efficiency and
   correctness.
 
 - After using a text editor and a terminal window to design, implement, test,
-  and use an integrated Python program that features user documentation, a test
-  suite, and either a command-line or web-based interface, critique the quality
-  of the program based on pre-defined criteria.
+  and use an integrated mobile-ready web site that features user documentation,
+  a test suite, and a complete web-based interface, critique the quality of the
+  web site based on pre-defined criteria involving aesthetics and accessibility.
