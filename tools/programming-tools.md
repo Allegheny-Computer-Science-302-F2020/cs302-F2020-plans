@@ -30,17 +30,16 @@ you can visit the following web sites:
 Since the [2019 Stack Overflow Technology
 Survey](https://insights.stackoverflow.com/survey/2019#technology) reports that
 Visual Studio Code (or VSCode) is the most popular development environment, you
-will exclusively use it to complete Python programming and technical writing
+will exclusively use it to complete web programming and technical writing
 projects in the field of web development. In addition to providing a wide
 variety of program analysis, debugging, linting, and testing tools, VSCode
 supports live share programming where two programmers can work together in the
 same development environment! VSCode also features an extremely popular and
-powerful Python programming extensions that will make your assignments
+powerful web programming extensions that will make your assignments
 significantly easier. To learn more about VSCode, you can visit the following
 web sites:
 
   - [VSCode Code Editor](https://code.visualstudio.com/)
-  - [VSCode Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [VSCode Live Share Overview](https://visualstudio.microsoft.com/services/live-share/)
   - [VSCode Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   - [VSCode Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
@@ -48,7 +47,7 @@ web sites:
 ## Docker
 
 Since a Docker container provides a wide variety of programming tools that
-support the implementation and assessment of a Python program, it makes it
+support the implementation and assessment of a web site component, it makes it
 easier for you to start programming right away! You are invited to use Docker
 Desktop to run programs that the course instructor provides to you through a
 Docker container. To learn more about Docker, you can visit the following web
@@ -62,15 +61,15 @@ sites:
 
 ## Markdown
 
-In addition to implementing and testing programs in Python, you will write
-technical documentation using Markdown, a formatting language that enables you
-to use rules to control the display of plain text in your GitHub repository. For
-instance, Markdown has features that enable it to display source code, itemized
-lists, and graphics. Importantly, you can edit Markdown files inside of your
-VSCode text editor and store them in your GitHub repository. Students will write
-in Markdown as part of the laboratory and practical assignments and the course
-examinations. You can learn more about the Markdown language for technical
-writing by visiting these web sites:
+In addition to implementing and testing programs in a web development
+programming language, you will write technical documentation using Markdown, a
+formatting language that enables you to use rules to control the display of
+plain text in your GitHub repository. For instance, Markdown has features that
+enable it to display source code, itemized lists, and graphics. Importantly, you
+can edit Markdown files inside of your VSCode text editor and store them in your
+GitHub repository. Students will write in Markdown as part of the laboratory and
+practical assignments and the course examinations. You can learn more about the
+Markdown language for technical writing by visiting these web sites:
 
   - [Markdown Guide](https://www.markdownguide.org/)
   - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)

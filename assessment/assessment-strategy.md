@@ -52,7 +52,7 @@ numerical or letter grade for this assignment, your grade will have the
 following components:
 
 - **Percentage of Correct GatorGrader Checks Ranging Between 0 and 100**: Your
-  submitted Python program must pass all of GatorGrader's checks by, for
+  submitted web site component must pass all of GatorGrader's checks by, for
   instance, ensuring that it produces the correct output and has all of the
   required characteristics. Your technical writing must pass all of
   GatorGrader's checks about, for instance, the length of its content and its
@@ -85,7 +85,7 @@ following components:
   have mastered all of the technical knowledge and skills developed during the
   completion of the laboratory assignment. As a part of this grade, the
   instructor will assess aspects of the project including, but not limited to,
-  the use of effective Python source code comments, correct Git commit messages,
+  the use of effective source code comments, correct Git commit messages,
   and accurate responses to the technical writing questions.
 
 ### Practical Assignments
@@ -99,7 +99,7 @@ software engineering and web development as evidenced by:
 - **GitHub Actions Build Status of Either ✔  or ❌**: Your work will receive a ✔
   if the last before-the-deadline build in GitHub Actions passes and a ✔ appears
     in their GitHub commit log instead of an ❌. The build status reported by
-    GitHub Actions will only be a ✔ if the Python source code and technical
+    GitHub Actions will only be a ✔ if the source code and technical
     writing in the GitHub repository pass all of both the GatorGrader checks and
     any additional checks.
 
