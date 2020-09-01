@@ -8,11 +8,14 @@
   + [Laboratory Assignments](#laboratory-assignments)
   + [Practical Assignments](#practical-assignments)
   + [Web Design Portfolio](#web-design-portfolio)
-* [Assessment Delivery](#assessment-delivery)
 * [Advance Feedback on an Assignment](#advance-feedback-on-an-assignment)
+* [Assessment Delivery](#assessment-delivery)
+* [Discussion of a Graded Assignment](#discussion-of-a-graded-assignment)
 * [Calculating Your Grade](#calculating-your-grade)
   + [Laboratory Assignments](#laboratory-assignments-1)
-  + [Practical Assignments](#practical-assignments)
+  + [Practical Assignments](#practical-assignments-1)
+    - [Example One](#example-one)
+    - [Example Two](#example-two)
 * [Questions About Your Grade](#questions-about-your-grade)
 
 ## Assignment Types
@@ -117,6 +120,19 @@ status of your web site. The percentage grade will also reflect the quality of
 the technical writing in your reflection document that describes your web design
 process and critiques the overall quality of your mobile-ready web site.
 
+## Advance Feedback on an Assignment
+
+Students who wish to receive feedback on their work for any course assignment
+should first open an issue on the issue tracker for their assignment's GitHub
+repository, giving an appropriate title and description for the type of feedback
+that you would like the course instructor to provide. After creating this issue,
+you will see that GitHub has created a unique web site that references it. To
+alert the course instructor to the fact that the issue was created and that you
+want feedback on your work, please send it to him by a Slack direct message at
+least 24 hours in advance of the project's due date. After the instructor
+responds to the issue, please resolve all of the stated concerns and participate
+in the discussion until the issue is closed.
+
 ## Assessment Delivery
 
 The course instructor invites students to incrementally complete all of the
@@ -144,19 +160,6 @@ bearing in mind the need to @-mention the course instructor in the body of your
 comment. Students can continue to discuss the graded assignment with the course
 instructor until they understand all the technical topics that were the
 focus of the particular assignment.
-
-## Advance Feedback on an Assignment
-
-Students who wish to receive feedback on their work for any course assignment
-should first open an issue on the issue tracker for their assignment's GitHub
-repository, giving an appropriate title and description for the type of feedback
-that you would like the course instructor to provide. After creating this issue,
-you will see that GitHub has created a unique web site that references it. To
-alert the course instructor to the fact that the issue was created and that you
-want feedback on your work, please send it to him by a Slack direct message at
-least 24 hours in advance of the project's due date. After the instructor
-responds to the issue, please resolve all of the stated concerns and participate
-in the discussion until the issue is closed.
 
 ## Calculating Your Grade
 
