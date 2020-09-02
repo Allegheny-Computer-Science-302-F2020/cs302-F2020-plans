@@ -69,7 +69,8 @@
   - Teach key facts and ideas to support the weekly activities
   - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
-  - Observe student demonstrations of the laboratory assignment and/or web design portfolio
+  - Observe student demonstrations of the laboratory assignment and/or web
+    design portfolio
 
 #### Team A
 
