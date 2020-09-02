@@ -9,8 +9,9 @@
       component's code that adhere to an industry-standard coding style.
     - Features a source code format that adheres to an industry-standard coding
       style.
-    - Passes a manual or automated test suite, thereby demonstrating that it
-      furnishes a correct implementation of the component's specification.
+    - Passes either a manual or an automated test suite, thereby demonstrating
+      that it furnishes a correct implementation of the component's
+      specification.
     - Performs the specified operations in an efficient fashion, as determined
       through experiments that evaluate the component's performance.
     - Correctly uses assignment statements, iteration constructs, conditional
@@ -34,9 +35,9 @@
     - Takes into account user preferences and demographics, thereby ensuring
       that it is both accessible and in adherence to both the cultural
       expectations and legal and ethical frameworks of the intended audience.
-    - Features external documentation that uses precise written content to
+    - Features external documentation that uses precise technical writing to
       defend the validity of the design, implementation, and testing decisions
-      that the learner made when creating the entire web site.
+      that the learner made when creating the web site.
 
 - **Using Web Development Tools**:
   - A learner will use a web development environment to complete these tasks
@@ -49,13 +50,14 @@
     - Use Docker to run, in an isolated container and without error, both a test
       suite and autograding tools.
     - Use testing to detect a failure in a web site and then effectively use
-      tools like a text editor and a terminal window to find and fix the
-      failure, ultimately confirming that the web site no longer contains the
-      failure and the fix did not compromise other components of the web site.
+      tools like a text editor, a terminal window, and a web browser to find and
+      fix the failure, ultimately confirming that the web site no longer
+      contains the failure and that the fix did not compromise other components
+      of the web site.
     - Use a text editor to participate in remote web development by effectively
       completing the following tasks:
-      - Creating and accepting an invitation to collaboratively implement a
-        web site.
+      - Creating and accepting an invitation to collaboratively implement a web
+        site.
       - Collaboratively sharing a terminal window with a remote developer.
       - Running a web server and then sharing the access to that server with a
         remote developer.
@@ -64,7 +66,7 @@
   - A learner will use the GitHub version control system in the following
     fashion:
     - Clone a GitHub repository without error using either a terminal window or
-      a Git integration in a text editor like VS Code.
+      an extension for Git integration in a text editor like VS Code.
     - Write short and descriptive commit messages that explain the specific way
       in which a commit changes the source code and documentation in the GitHub
       repository.
