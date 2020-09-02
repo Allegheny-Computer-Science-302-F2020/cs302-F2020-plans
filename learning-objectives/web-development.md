@@ -54,11 +54,11 @@
       failure and the fix did not compromise other components of the web site.
     - Use a text editor to participate in remote web development by effectively
       completing the following tasks:
-        - Creating and accepting an invitation to collaboratively implement a
-          web site.
-        - Collaboratively sharing a terminal window with a remote developer.
-        - Running a web server and then sharing the access to that server with a
-          remote developer.
+      - Creating and accepting an invitation to collaboratively implement a
+        web site.
+      - Collaboratively sharing a terminal window with a remote developer.
+      - Running a web server and then sharing the access to that server with a
+        remote developer.
 
 - **Using Version Control Systems**:
   - A learner will use the GitHub version control system in the following
