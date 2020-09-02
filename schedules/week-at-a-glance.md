@@ -24,10 +24,10 @@
 
 - In-person class activities for [Team A](../teams/team-a.md):
   - Introduce the technical question for the week
-  - Teach key facts and ideas to support weekly activities
+  - Teach key facts and ideas to support the weekly activities
   - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
-  - Observe student demonstration of laboratory assignment and/or web design
+  - Observe student demonstrations of the laboratory assignment and/or web design
     portfolio
 
 #### Team A
@@ -36,6 +36,7 @@
 - Attend the in-person classroom session in Alden Hall
 - Give a demonstration of your laboratory assignment and/or web design portfolio
 - Work on the laboratory assignment from the previous week
+- Work on the practical assignment assignment for this week
 
 #### Team B
 
@@ -65,16 +66,16 @@
 
 - In-person class activities for [Team B](../teams/team-b.md):
   - Introduce the technical question for the week
-  - Teach key facts and ideas to support weekly activities
+  - Teach key facts and ideas to support the weekly activities
   - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
-  - Observe student demonstration of laboratory assignments and/or web design portfolio
+  - Observe student demonstrations of the laboratory assignment and/or web design portfolio
 
 #### Team A
 
 - *Do not* attend the in-person classroom session in Alden Hall
 - Work on the current practical assignment assigned on Tuesday of this week
-- Work on the current laboratory assignments assigned on Tuesday of this week
+- Work on the current laboratory assignment assigned on Tuesday of this week
 
 #### Team B
 
