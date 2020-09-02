@@ -20,7 +20,7 @@
 
 ## Tuesday
 
-#### Instructor
+### Instructor
 
 - In-person class activities for [Team A](../teams/team-a.md):
   - Introduce the technical question for the week
