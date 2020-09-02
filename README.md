@@ -1,5 +1,7 @@
 # cs302-F2020-plans
 
+![](../../workflows/build/badge.svg)
+
 ## Table of Contents
 
 * [Introduction](#introduction)
