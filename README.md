@@ -1,5 +1,20 @@
 # cs302-F2020-plans
 
+## Table of Contents
+
+* [Introduction](#introduction)
+* [Course Description](#course-description)
+* [Course Textbook](#course-textbook)
+* [Instructor Correspondence](#instructor-correspondence)
+* [Course Schedules](#course-schedules)
+* [Learning Objectives](#learning-objectives)
+* [Assignment Types](#assignment-types)
+* [Assessment Strategy](#assessment-strategy)
+* [Team Assignment](#team-assignment)
+* [Resources](#resources)
+
+## Introduction
+
 This repository contains all of the course planning documents for Computer
 Science 302 Fall 2020, Web Development. This course introduces the principles
 and applications of computer science that arise during the design,
@@ -8,7 +23,7 @@ implementation, and maintenance of mobile-ready web sites.
 ## Course Description
 
 An introduction to the principles and applications of computer science with an
-emphasis on understanding intercultural perspectives that arise during the
+emphasis on understanding the intercultural perspectives that arise during the
 design, implementation, and maintenance of mobile-ready web sites. Participating
 in hands-on activities that often require teamwork, students learn the
 computational methods needed to create web sites that are useful to people from
@@ -28,7 +43,7 @@ laptops are available for use during class and lab sessions.
   Hoar, [Available on
   Amazon](https://www.amazon.com/Fundamentals-Web-Development-Randy-Connolly/dp/0134481267)
 
-## Correspondence
+## Instructor Correspondence
 
 - [Email on 08-12-2020: Introduction](emails/introduction.md)
 - [Email on 08-27-2020: Laptop Survey](emails/laptopsurvey.md)
