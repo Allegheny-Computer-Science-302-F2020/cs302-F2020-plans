@@ -1,6 +1,6 @@
 Hello CMPSC 302 Students,
 
-## Read This Email Carefully
+# Read This Email Carefully
 
 This email is very long and includes many details about the CMPSC 302 course.
 Instead of bombarding you with many short emails, I will continue to write you a

@@ -1,6 +1,6 @@
 Hello CMPSC 302 Students,
 
-## Introduction
+# Introduction
 
 As you will recall, I promised you that I would send you a link to join a Google
 Meet for our first CMPSC 302 course in Web Development.
