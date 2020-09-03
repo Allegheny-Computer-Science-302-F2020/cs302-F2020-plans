@@ -59,4 +59,4 @@ being intellectually challenged and facing and overcoming the struggles
 associated with learning more about web development. Please remember to continue
 to persevere and work hard even in the face of challenges, knowing that the
 student technical leaders and the course instructor will support you throughout
-this adventure in discrete structures and Python programming. -->
+this adventure in web development. -->
