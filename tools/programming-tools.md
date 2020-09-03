@@ -6,6 +6,9 @@
 * [Visual Studio Code](#visual-studio-code)
 * [Docker](#docker)
 * [Markdown](#markdown)
+* [Web Programming Languages](#web-programming-languages)
+* [Python for Web Development](#python-for-web-development)
+* [Python Web Development Packages](#python-web-development-packages)
 
 ## GitHub
 
