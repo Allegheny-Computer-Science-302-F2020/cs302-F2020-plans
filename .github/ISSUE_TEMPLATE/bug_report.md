@@ -41,9 +41,9 @@ and why you thought that was the most likely thing to happen.
 
 Please provide a detailed description of your execution environment, including
 the make and model of your laptop, your laptop's operating system, the version
-of Python installed on your laptop, and the current extensions that you are
-using in VSCode. If there are any other relevant details, please provide them in
-this section of the issue report.
+of web development libraries and frameworks installed on your laptop, and the
+current extensions that you are using in VSCode. If there are any other relevant
+details, please provide them in this section of the issue report.
 
 **Provide any additional context**
 
