@@ -54,6 +54,7 @@ laptops are available for use during class and lab sessions.
 ## Course Schedules
 
 - [Week At a Glance](schedules/week-at-a-glance.md)
+- [Weekly Technical Questions](schedules/weekly-technical-questions.md)
 
 ## Learning Objectives
 
