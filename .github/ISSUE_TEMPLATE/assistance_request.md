@@ -44,8 +44,8 @@ as behavior is different than the behavior that you were expecting.
 
 Please provide a detailed description of your execution environment, including
 the make and model of your laptop, your laptop's operating system, the version
-of Python installed on your laptop, and the current extensions that you are
-using in VSCode.
+of various web development libraries and frameworks installed on your laptop,
+and the current extensions that you are using in VSCode.
 
 **Explain the timeline by which you need to have this issue resolved**
 
@@ -79,8 +79,7 @@ technical leaders can work to assist you with your problems!
 <!--  Encouragement: Remember, the student technical leaders and the course
 instructor are committed to your success. With that said, "success" involves you
 being intellectually challenged and facing and overcoming the struggles
-associated with learning more about discrete structures and Python programming.
-Please remember to continue to persevere and work hard even in the face of
-challenges, knowing that the student technical leaders and the course instructor
-will support you throughout this adventure in discrete structures and Python
-programming. -->
+associated with learning more about web development. Please remember to continue
+to persevere and work hard even in the face of challenges, knowing that the
+student technical leaders and the course instructor will support you throughout
+this adventure in web development. -->
