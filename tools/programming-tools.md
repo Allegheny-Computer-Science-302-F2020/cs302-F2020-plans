@@ -92,3 +92,40 @@ visiting these web sites:
 - [Mozilla Development Network Guide to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [The State of JavaScript Survey](https://stateofjs.com/)
 - [The Best of JavaScript, HTML, and CSS](https://bestofjs.org/)
+
+## Python for Web Development
+
+The Python programming language is simple and powerful! Since there are a wide
+variety of development tools and packages that support programming in Python, we
+will use this language when we need to start a web server or when we need to
+implement a server component for our web site. Since the version of Python
+delivered by your operating system may be out of date (or Python may not be
+readily available on your operating system), you are invited to install version
+3.8 of the Python programming language by using either the Pyenv or Pyenv-win
+tools that are available for download from GitHub. You can learn more about
+Python by visiting these web sites:
+
+- [Python](https://www.python.org/)
+- [Pyenv](https://github.com/pyenv/pyenv)
+- [Pyenv-Win](https://github.com/pyenv-win/pyenv-win)
+
+## Python Web Development Packages
+
+The Python programming language features a wide variety of popular and powerful
+packages that enable you to more effectively write efficient and correct
+programs. Although we will only explore a limited number of Python packages this
+semester, we will use the Poetry packaging and dependency management tool
+support the installation of the packages that you will use to complete the
+course assignments. We will also use the Pytest testing framework to write and
+run test cases that help us to know whether or not our Python program is
+correct. Finally, we will use the Streamlit system to create web-based
+interfaces for our Python applications that explore the field of discrete
+structures. Of course, there are many other Python packages that you can explore
+through the Python Package Index. You can learn more about these Python packages
+by visiting these web sites:
+
+- [Poetry](https://python-poetry.org/)
+- [Streamlit](https://www.streamlit.io/)
+- [Python Package Index](https://pypi.org/)
+- [HTTP Servers in Python](https://docs.python.org/3/library/http.server.html)
+- [Mozilla Web Docs for Python Web Servers](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
