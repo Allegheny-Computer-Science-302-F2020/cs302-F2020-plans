@@ -20,7 +20,9 @@
 This repository contains all of the course planning documents for Computer
 Science 302 Fall 2020, Web Development. This course introduces the principles
 and applications of computer science that arise during the design,
-implementation, and maintenance of mobile-ready web sites.
+implementation, and maintenance of mobile-ready web sites. More details about
+the course are available in the [course
+syllabus](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-syllabus).
 
 ## Course Description
 
