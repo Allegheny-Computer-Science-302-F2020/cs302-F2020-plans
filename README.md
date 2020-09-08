@@ -84,5 +84,7 @@ laptops are available for use during class and lab sessions.
 
 ## Resources
 
+- [Course Syllabus](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-syllabus).
+- [Course Slides](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-slides)
 - [Programming Tools](tools/programming-tools.md)
 - [Slack Workspace](https://join.slack.com/t/cmpsc302fall2020/signup)
