@@ -18,6 +18,21 @@
   Tools](../tools/programming-tools.md) that will help me to design, implement,
   test, and maintain mobile-ready web sites?
 
+**Reading Assignments**
+
+- Details about all of the referenced [programming tools](../tools/programming-tools.md)
+
+### Week Two: September 7, 2020 to September 11, 2020
+
+- How do I connect the documented behavior of a web browser and a web client
+  (e.g., routing, request, and response) to their observed behavior when using a
+  simplified hypertext-transfer protocol (HTTP) server and a standard web
+  browser?
+
+**Reading Assignments**
+
+- Chapters 1 and 2 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
