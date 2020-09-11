@@ -77,6 +77,14 @@ laptops are available for use during class and lab sessions.
 
 - [Assessment Strategy](assessment/assessment-strategy.md)
 
+## Laboratory Assignments
+
+- [Laboratory Assignment One: Mastering the Software Tools Used in Web
+  Development](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab1-starter)
+
+Please note that you must click the instructor-provided link in Slack to start
+each laboratory assignment.
+
 ## Team Assignment
 
 - [Team A](teams/team-a.md)
