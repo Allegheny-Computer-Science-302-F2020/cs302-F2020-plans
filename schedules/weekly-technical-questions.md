@@ -34,6 +34,14 @@
 
 - Chapters 1 and 2 of *Fundamentals of Web Development*
 
+### Week Three: September 14, 2020 to September 18, 2020
+
+- How can I follow industry best practices for implementing syntactically valid hypertext markup language (HTML) files that correctly use content and tags to display text-based and image content?
+
+**Reading Assignments**
+
+- Chapter 3 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
