@@ -25,14 +25,12 @@
 - In-person class activities for [Team A](../teams/team-a.md):
   - Introduce the technical question for the week
   - Teach key facts and ideas to support the weekly activities
-  - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
   - Observe student demonstrations of the laboratory assignment and/or web design
     portfolio
 
 #### Team A
 
-- Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
 - Give a demonstration of your laboratory assignment and/or web design portfolio
 - Work on the laboratory assignment from the previous week
@@ -67,7 +65,6 @@
 - In-person class activities for [Team B](../teams/team-b.md):
   - Introduce the technical question for the week
   - Teach key facts and ideas to support the weekly activities
-  - Introduce the practical assignment due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
   - Observe student demonstrations of the laboratory assignment and/or web
     design portfolio
@@ -75,16 +72,15 @@
 #### Team A
 
 - *Do not* attend the in-person classroom session in Alden Hall
-- Work on the current practical assignment assigned on Tuesday of this week
+- Work on the current practical assignment assigned last week on Friday
 - Work on the current laboratory assignment assigned on Tuesday of this week
 
 #### Team B
 
-- Submit the practical assignment from the previous week
 - Attend the in-person classroom session in Alden Hall
 - Give a demonstration of your laboratory assignment and/or web design portfolio
-- Work on the laboratory assignment assignment for this week
-- Work on the practical assignment assignment for this week
+- Work on the current practical assignment assigned last week on Friday
+- Work on the current laboratory assignment assigned on Tuesday of this week
 
 ## Friday
 
@@ -107,11 +103,13 @@
 
 #### Instructor
 
+- Introduce the practical assignment due next week at this time
 - Add to and update weekly tasks on the [GitHub Project
   Board](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans/projects/1)
 
 #### All Students
 
+- Submit the practical assignment from the previous week
 - Check all weekly tasks on the [GitHub Project
   Board](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans/projects/1)
 
