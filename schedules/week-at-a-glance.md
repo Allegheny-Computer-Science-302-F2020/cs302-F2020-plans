@@ -33,14 +33,14 @@
 
 - Attend the in-person classroom session in Alden Hall
 - Give a demonstration of your laboratory assignment and/or web design portfolio
-- Work on the laboratory assignment from the previous week
-- Work on the practical assignment assignment for this week
+- Work on the current practical assignment assigned last week on Friday
+- Work on the past laboratory assignment assigned on Tuesday of last week
 
 #### Team B
 
 - *Do not* attend the in-person classroom session in Alden Hall
-- Work on the practical assignment from the previous week
-- Work on the laboratory assignment from the previous week
+- Work on the current practical assignment assigned last week on Friday
+- Work on the past laboratory assignment assigned on Tuesday of this week
 
 ### Remote Laboratory Session 3:00 PM - 4:50 PM
 
