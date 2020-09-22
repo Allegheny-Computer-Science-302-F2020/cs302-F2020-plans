@@ -84,7 +84,8 @@ laptops are available for use during class and lab sessions.
   Development](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab1-starter)
 - [Laboratory Assignment Two: Implementing Syntactically Correct HTML Source
   Code](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab2-starter)
-- [Laboratory Assignment Three: Implementing and Testing a Multiple-Page Web Site](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab3-starter)
+- [Laboratory Assignment Three: Implementing and Testing a Multiple-Page Web
+  Site](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab3-starter)
 
 Please note that you must click the instructor-provided link in Slack to start
 each laboratory assignment.
