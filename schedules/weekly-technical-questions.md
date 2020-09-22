@@ -45,6 +45,16 @@
 
 - Chapter 3 of *Fundamentals of Web Development*
 
+### Week Four: September 21, 2020 to September 25, 2020
+
+- How can I follow industry best practices for implementing syntactically valid
+  cascading style sheets (CSS) files that correctly use selectors, properties,
+  and media queries to modify the display of text-based and image content?
+
+**Reading Assignments**
+
+- Chapter 4 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
