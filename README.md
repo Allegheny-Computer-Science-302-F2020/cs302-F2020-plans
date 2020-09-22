@@ -12,6 +12,7 @@
 * [Learning Objectives](#learning-objectives)
 * [Assignment Types](#assignment-types)
 * [Assessment Strategy](#assessment-strategy)
+* [Laboratory Assignments](#laboratory-assignments)
 * [Team Assignment](#team-assignment)
 * [Resources](#resources)
 
@@ -81,6 +82,8 @@ laptops are available for use during class and lab sessions.
 
 - [Laboratory Assignment One: Mastering the Software Tools Used in Web
   Development](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab1-starter)
+- [Laboratory Assignment Two: Implementing Syntactically Correct HTML Source
+  Code](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab2-starter)
 
 Please note that you must click the instructor-provided link in Slack to start
 each laboratory assignment.
