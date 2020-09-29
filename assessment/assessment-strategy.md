@@ -194,6 +194,9 @@ Laboratory Assignment Grade:
 - Web Design Portfolio: 20%
 - Laboratory Assignments: 40%
 
+Please note that these grading percentages supersede those originally specified
+in the course syllabus.
+
 ## Questions About Your Grade
 
 Before asking the course instructor a question about the calculation of your
