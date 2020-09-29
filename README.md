@@ -86,6 +86,8 @@ laptops are available for use during class and lab sessions.
   Code](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab2-starter)
 - [Laboratory Assignment Three: Implementing and Testing a Multiple-Page Web
   Site](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab3-starter)
+- [Laboratory Assignment Four: Using HTML and CSS to Implement and Style a Web
+  Page](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab4-starter)
 
 Please note that you must click the instructor-provided link in Slack to start
 each laboratory assignment.
