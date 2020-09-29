@@ -6,16 +6,13 @@
 * [Assessment Overview](#assessment-overview)
 * [Assessment Strategy Details](#assessment-strategy-details)
   + [Laboratory Assignments](#laboratory-assignments)
-  + [Practical Assignments](#practical-assignments)
   + [Web Design Portfolio](#web-design-portfolio)
 * [Advance Feedback on an Assignment](#advance-feedback-on-an-assignment)
 * [Assessment Delivery](#assessment-delivery)
 * [Discussion of a Graded Assignment](#discussion-of-a-graded-assignment)
 * [Calculating Your Grade](#calculating-your-grade)
   + [Laboratory Assignments](#laboratory-assignments-1)
-  + [Practical Assignments](#practical-assignments-1)
-    - [Example One](#example-one)
-    - [Example Two](#example-two)
+* [Grading Percentages](#grading-percentages)
 * [Questions About Your Grade](#questions-about-your-grade)
 
 ## Assignment Types
