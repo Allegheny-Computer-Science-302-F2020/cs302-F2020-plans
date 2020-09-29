@@ -91,21 +91,6 @@ following components:
   the use of effective source code comments, correct Git commit messages,
   and accurate responses to the technical writing questions.
 
-### Practical Assignments
-
-Again taking inspiration from the principles of [specification-based
-grading](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422),
-the grade that a student receives a practical assignment will be based on
-whether or not it meets the standards for technical work in the fields of
-software engineering and web development as evidenced by:
-
-- **GitHub Actions Build Status of Either ✔  or ❌**: Your work will receive a ✔
-  if the last before-the-deadline build in GitHub Actions passes and a ✔ appears
-    in their GitHub commit log instead of an ❌. The build status reported by
-    GitHub Actions will only be a ✔ if the source code and technical
-    writing in the GitHub repository pass all of both the GatorGrader checks and
-    any additional checks.
-
 ### Web Design Portfolio
 
 Since the web design portfolio is an independent student-driven initiative, the
@@ -204,33 +189,13 @@ Laboratory Assignment Grade:
           73.767
   ```
 
-### Practical Assignments
+## Grading Percentages
 
-#### Example One
-
-- Assignment One: ✔
-- Assignment Two: ❌
-- Assignment Three: ❌
-
-- Overall:
-
-  ```
-  (1+0+0)/3 * 100
-        33.33
-  ```
-
-#### Example Two
-
-- Assignment One: ✔
-- Assignment Two: ✔
-- Assignment Three: ✔
-
-- Overall:
-
-  ```
-  (1+1+1)/3 * 100
-        100.00
-  ```
+- Technical Assessments: 10%
+- Midterm Examination: 15%
+- Final Examination: 15%
+- Web Design Portfolio: 20%
+- Laboratory Assignments: 40%
 
 ## Questions About Your Grade
 
