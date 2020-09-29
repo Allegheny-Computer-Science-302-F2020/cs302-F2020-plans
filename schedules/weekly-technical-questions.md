@@ -56,6 +56,16 @@
 
 - Chapter 4 of *Fundamentals of Web Development*
 
+### Week Five: September 28, 2020 to October 2, 2020
+
+- How can I follow industry best practices to use both HTML and CSS to
+  implement tables that display formatted content and forms that receive and
+  verify user input?
+
+**Reading Assignments**
+
+- Chapter 5 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
