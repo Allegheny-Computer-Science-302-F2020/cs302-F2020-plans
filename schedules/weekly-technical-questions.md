@@ -65,7 +65,17 @@
 
 **Reading Assignments**
 
-- Chapter 5 of *Fundamentals of Web Development*
+- Chapter 5 of *Fundamentals of Web Development* - Focus on tables
+
+### Week Six: October 5, 2020 to October 9, 2020
+
+- How can I follow industry best practices to use both HTML and CSS to
+  implement tables that display formatted content and forms that receive and
+  verify user input?
+
+**Reading Assignments**
+
+- Chapter 5 of *Fundamentals of Web Development* - Focus on forms
 
 ## Calendar Overview
 
