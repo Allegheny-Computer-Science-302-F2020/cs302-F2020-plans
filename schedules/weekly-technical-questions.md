@@ -8,6 +8,7 @@
   + [Week Three: September 14, 2020 to September 18, 2020](#week-three-september-14-2020-to-september-18-2020)
   + [Week Four: September 21, 2020 to September 25, 2020](#week-four-september-21-2020-to-september-25-2020)
   + [Week Five: September 28, 2020 to October 2, 2020](#week-five-september-28-2020-to-october-2-2020)
+  + [Week Six: October 5, 2020 to October 9, 2020](#week-six-october-5-2020-to-october-9-2020)
 * [Calendar Overview](#calendar-overview)
   + [August](#august)
   + [September](#september)
