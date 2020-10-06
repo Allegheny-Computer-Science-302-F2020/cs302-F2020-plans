@@ -88,6 +88,8 @@ laptops are available for use during class and lab sessions.
   Site](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab3-starter)
 - [Laboratory Assignment Four: Using HTML and CSS to Implement and Style a Web
   Page](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab4-starter)
+- [Laboratory Assignment Five: Using HTML and CSS to Define and Style Tabular
+  Data](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab5-starter)
 
 Please note that you must click the instructor-provided link in Slack to start
 each laboratory assignment.
