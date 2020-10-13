@@ -51,7 +51,7 @@
 ### Week Four: September 21, 2020 to September 25, 2020
 
 - How can I follow industry best practices for implementing syntactically valid
-  cascading style sheets (CSS) files that correctly use selectors, properties,
+  cascading style sheet (CSS) files that correctly use selectors, properties,
   and media queries to modify the display of text-based and image content?
 
 **Reading Assignments**
@@ -77,6 +77,15 @@
 **Reading Assignments**
 
 - Chapter 5 of *Fundamentals of Web Development* - Focus on forms
+
+### Week Seven: October 12, 2020 to October 16, 2020
+
+- How can I use HTML and CSS source code and media creation software to
+  effectively add color and media such as images to a web site?
+
+**Reading Assignments**
+
+- Chapter 6 of *Fundamentals of Web Development*
 
 ## Calendar Overview
 
