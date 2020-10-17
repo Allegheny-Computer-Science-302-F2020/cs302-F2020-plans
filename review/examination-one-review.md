@@ -24,9 +24,16 @@ that we have covered to this date. Students may post questions about this
 material to our Slack team.
 
 The exam will be a mix of questions that have a form such as short answer,
-completion, the interpretation and creation of Python source code, and the
-interpretation of Python program output. The emphasis will be on the following
-technical topics:
+completion, and the interpretation and creation of Markdown, HTML, and CSS
+source code. The emphasis will be on the following technical topics:
+
+## Practical Experience With Web Development Tools
+
+- Using the Git and GitHub version control system
+- Using Docker to support web development
+- Using the VSCode text editor to manipulate Markdown, HTML, and CSS files
+- Running GatorGrader in Docker to check a repository's correctness
+- Using Python to run a local web server
 
 ## Chapter One
 
