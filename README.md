@@ -98,6 +98,14 @@ laptops are available for use during class and lab sessions.
 Please note that you must click the instructor-provided link in Slack to start
 each laboratory assignment.
 
+## Web Design Portfolio
+
+- [Web Design Portfolio Project: Creating and Deploying a Mobile-Ready Web
+  Site](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-portfolio1-starter)
+
+Please note that you must click the instructor-provided link in Slack to start
+the web design portfolio assignment.
+
 ## Review Sheets for Examinations
 
 - [Midterm Examination Review Sheet](review/examination-one-review.md)
