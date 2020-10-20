@@ -27,7 +27,8 @@
 
 **Reading Assignments**
 
-- Details about all of the referenced [programming tools](../tools/programming-tools.md)
+- Details about all of the referenced [programming
+  tools](../tools/programming-tools.md)
 
 ### Week Two: September 7, 2020 to September 11, 2020
 
