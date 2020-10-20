@@ -87,6 +87,15 @@
 
 - Chapter 6 of *Fundamentals of Web Development*
 
+### Week Eight: October 19, 2020 to October 23, 2020
+
+- How can I use HTML and CSS source code to design and implement multicolumn
+  and responsive web page layouts?
+
+**Reading Assignments**
+
+- Chapter 7 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
