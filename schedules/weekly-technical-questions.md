@@ -99,6 +99,16 @@
 
 - Chapter 7 of *Fundamentals of Web Development*
 
+### Week Nine: October 26, 2020 to October 30, 2020
+
+- How can I leverage my understanding of the fundamentals of JavaScript to
+  perform HTML code generation and add interactivity to a web page with
+  functions, arrays, and objects?
+
+**Reading Assignments**
+
+- Chapter 8 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
