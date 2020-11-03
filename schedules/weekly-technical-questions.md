@@ -109,6 +109,16 @@
 
 - Chapter 8 of *Fundamentals of Web Development*
 
+### Week Ten: November 2, 2020 to November 6, 2020
+
+- How can I use JavaScript to access the document object model (DOM) of a web
+  page to perform page manipulation and to enhance a person's interaction with
+  the page?
+
+**Reading Assignments**
+
+- Chapter 9 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
