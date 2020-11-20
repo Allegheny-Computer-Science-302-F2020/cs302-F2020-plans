@@ -130,6 +130,15 @@
 
 - Chapter 20 of *Fundamentals of Web Development*
 
+### Week Twelve: November 16, 2020 to November 20, 2020
+
+- How can I apply security principles and follow security best practices to
+  design and implement web sites that are secure?
+
+**Reading Assignments**
+
+- Chapter 18 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
