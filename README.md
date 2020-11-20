@@ -96,6 +96,12 @@ laptops are available for use during class and lab sessions.
   CSS](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab6-starter)
 - [Laboratory Assignment Seven: Implementing CSS Gradients to Style an Image
   Gallery](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab7-starter)
+- [Laboratory Assignment Eight: Using JavaScript to Dynamically Generate the
+  HTML of a Web
+  Page](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab8-starter)
+- [Laboratory Assignment Nine: Using JavaScript to Support User-Driven Google
+  Font
+  Reloading](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-lab9-starter)
 
 Please note that you must click the instructor-provided link in Slack to start
 each laboratory assignment.
@@ -106,7 +112,10 @@ each laboratory assignment.
   Site](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-portfolio1-starter)
 
 Please note that you must click the instructor-provided link in Slack to start
-the web design portfolio assignment.
+the web design portfolio assignment. Students should use the GitHub repository
+created by GitHub Classroom. Students should create their own GitHub repository
+in their own account to host all of the HTML, CSS, Markdown, and JavaScript
+source code for their web site.
 
 ## Review Sheets for Examinations
 
