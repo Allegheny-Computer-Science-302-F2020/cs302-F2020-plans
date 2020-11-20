@@ -59,6 +59,9 @@ laptops are available for use during class and lab sessions.
 - [Email on 08-27-2020: Laptop Survey](emails/laptopsurvey.md)
 - [Email on 09-01-2020: First Class Meeting](emails/firstclassmeeting.md)
 
+Please note that the course instructor will primarily use the course's Slack
+workspace for communication with students.
+
 ## Course Schedules
 
 - [Week At a Glance](schedules/week-at-a-glance.md)
