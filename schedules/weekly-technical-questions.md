@@ -121,6 +121,15 @@
 
 - Chapter 9 of *Fundamentals of Web Development*
 
+### Week Eleven: November 9, 2020 to November 13, 2020
+
+- How can I use JavaScript frameworks for back-end and front-end web
+  development?
+
+**Reading Assignments**
+
+- Chapter 20 of *Fundamentals of Web Development*
+
 ## Calendar Overview
 
 ### August
