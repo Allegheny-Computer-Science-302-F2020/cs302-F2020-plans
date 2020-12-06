@@ -17,8 +17,8 @@ that you can demonstrate that you have the skill referenced in each objective.
 ### Examination Details
 
 - Review Sheet Released: Friday, December 4, 2020
-- Examination Released: Thursday, December 10, 2020
-- Examination Due: 11:59 pm on Friday, December 11, 2020
+- Examination Released: Tuesday, December 8, 2020
+- Examination Due: 11:59 pm on Wednesday, December 9, 2020
 
 ### Examination Overview
 
@@ -59,32 +59,22 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Do not post questions about the examination in a public channel of the Slack workspace
 - Unless you make special arrangements with the instructor, no late work will be accepted
 
-## Examination Details
-
-- Review Sheet Released: Friday, December 4, 2020
-- Examination Released: Tuesday, December 8, 2020
-- Examination Due: 11:59 pm on Wednesday, December 9, 2020
-
-## Examination Overview
-
-The exam will be closed notes and closed book and it will cover the following
-materials. Please review the course schedule to see the content and slides
-that we have covered to this date. Students may post questions about this
-material to our Slack workspace.
-
-The exam will be a mix of questions that have a form such as short answer,
-completion, and the interpretation and creation of Markdown, HTML, and CSS
-source code. The emphasis will be on the following technical topics:
-
 ## Summary of Topics for the Final Examination
 
 ### Practical Experience With Web Development Tools
 
-- Using the Git and GitHub version control system
-- Using Docker to support web development
+- How to use the Docker system to support web development and testing
 - Using the VSCode text editor to manipulate Markdown, HTML, and CSS files
-- Running GatorGrader in Docker to check a repository's correctness
-- Using Python to run a local web server
+- How to run GatorGrader in Docker to check a repository's correctness
+- How to use the Python programming language to run a local web server
+
+### Practical Experience with the Design, Implementation, and Deployment of a Web Site
+
+- How to pick a JAMStack framework for the creation of a web site hosted on Netlify
+- The trade-offs associated with implementing a web site that uses the JAMStack model
+- The steps for connecting a GitHub repository to the Netlify platform
+- The ways in which the GitHub Flow model supports the creation of Netlify-based preview builds
+- How to use GitHub and Netlify to perform a deploy to Netlify's content delivery network
 
 ### Using Git Repositories and the GitHub Platform
 
