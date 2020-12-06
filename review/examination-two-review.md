@@ -61,20 +61,28 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 
 ## Summary of Topics for the Final Examination
 
-### Practical Experience With Web Development Tools
+### Practical Experience with Web Development Tools
 
 - How to use the Docker system to support web development and testing
 - Using the VSCode text editor to manipulate Markdown, HTML, and CSS files
 - How to run GatorGrader in Docker to check a repository's correctness
 - How to use the Python programming language to run a local web server
+- An understanding of the characteristics, input, output, and behavior of
+  linting and testing tools for web development
+- The benefits and drawbacks of performing linting and testing during web
+  development
 
 ### Practical Experience with the Design, Implementation, and Deployment of a Web Site
 
-- How to pick a JAMStack framework for the creation of a web site hosted on Netlify
-- The trade-offs associated with implementing a web site that uses the JAMStack model
+- How to pick a JAMStack framework for the creation of a web site hosted on
+  Netlify
+- The trade-offs associated with implementing a web site that uses the JAMStack
+  model
 - The steps for connecting a GitHub repository to the Netlify platform
-- The ways in which the GitHub Flow model supports the creation of Netlify-based preview builds
-- How to use GitHub and Netlify to perform a deploy to Netlify's content delivery network
+- The ways in which the GitHub Flow model supports the creation of Netlify-based
+  preview builds
+- How to use GitHub and Netlify to deploy a web site to Netlify's content
+  delivery network
 
 ### Using Git Repositories and the GitHub Platform
 
@@ -97,7 +105,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - A high-level understanding of the technologies used to create web sites
 - The role that a version control system plays in the development of a web site
 
-## Chapter Two: How the Web Works
+### Chapter Two: How the Web Works
 
 - An intuitive understanding of the Internet protocols supporting a connection
   to a web site
@@ -117,7 +125,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - A basic understanding of the various "application stacks" employed by
   different web servers
 
-## Chapter Three: Introduction to HTML
+### Chapter Three: Introduction to HTML
 
 - The term "markup language" and a historical understand of the hypertext markup
   language
@@ -140,7 +148,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to appropriately use tools to support the development and debugging of web
   sites
 
-## Chapter Four: Introduction to CSS
+### Chapter Four: Introduction to CSS
 
 - The benefits and potential challenges of using cascading style
   sheets to style a web site
@@ -167,7 +175,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to appropriately use tools to support the development and
   debugging of CSS files
 
-## Chapter Five: HTML Tables and Forms
+### Chapter Five: HTML Tables and Forms
 
 - The way in which HTML tables support the organization of data into rows and
   columns
@@ -194,7 +202,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to appropriately use tools to support the development and debugging of
   tables and forms
 
-## Chapter Six: Web Media
+### Chapter Six: Web Media
 
 - The similarities and differences (and trade-offs) between raster images and
   vector images
@@ -225,7 +233,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Knowledge of the trade-offs associated with methods for organizing web media
   into a gallery
 
-## Chapter Seven: Using CSS for Layout
+### Chapter Seven: Using CSS for Layout
 
 - An understanding of the term "normal flow" and how it influences the layout of
   web elements
@@ -262,7 +270,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Examples of the key features provided by CSS frameworks (e.g., grid-based
   content layout)
 
-## Chapter Eight: Fundamentals of JavaScript
+### Chapter Eight: Fundamentals of JavaScript
 
 - The history of JavaScript and how it is similar to and different from other
   programming languages
@@ -295,7 +303,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Detailed knowledge of the extended example's use of JavaScript to create a
   country gallery
 
-## Chapter Nine: Advanced JavaScript Programming
+### Chapter Nine: Advanced JavaScript Programming
 
 - How the document object model (DOM) represents and supports the change of a
   web site
@@ -319,3 +327,25 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   a form
 - How the JavaScript programming language supports asynchronous data requests
   through the use of the asynchronous JavaScript and XML (AJAX) framework
+
+### Chapter Twenty: Using JavaScript Frameworks
+
+- Knowledge of the popularity and benefits of JavaScript and its frameworks
+  (e.g., Ember, Angular, and React)
+- The ways in which JavaScript frameworks support the implementation of
+  interactive web sites
+- The benefits from using frameworks, like AngularJS, to create single-page
+  applications (SPAs)
+- How JavaScript frameworks adopt the model-view-controller model for web
+  programming
+- How to use the node package manager, called `npm`, to install JavaScript
+  packages for both front-end and back-end JavaScript development
+- How and why the Quicklink JavaScript package supports the pre-fetching of the
+  content on a web page
+- How to use use React and the Spectacle framework to implement an interaction
+  presentation
+- The ways in which React uses a combination of JavaScript and XML called JSX
+
+### Chapter Eighteen: Web Security Practices
+
+- 
