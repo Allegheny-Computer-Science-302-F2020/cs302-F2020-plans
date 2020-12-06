@@ -123,6 +123,7 @@ source code for their web site.
 ## Review Sheets for Examinations
 
 - [Midterm Examination Review Sheet](review/examination-one-review.md)
+- [Final Examination Review Sheet](review/examination-two-review.md)
 
 ## Team Assignment
 
