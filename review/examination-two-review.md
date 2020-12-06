@@ -28,12 +28,11 @@ we have covered to this date. Students may post questions about this material to
 our Slack team.
 
 The exam will be a mix of questions that have a form such as short answer,
-completion, the interpretation and creation of Python source code, and the
-interpretation of Python program output. The final examination is comprehensive,
-meaning that it covers all of the content that we studied in this course in the
-class sessions and laboratory, practical, and technical challenge assignments.
-The emphasis will be on the following technical topics listed at the end of this
-review sheet.
+completion, and the interpretation and creation of Markdown, HTML, CSS, and
+JavaScript source code. The final examination is comprehensive, meaning that it
+covers all of the content that we studied in this course in the class sessions
+and laboratory, assignments. The emphasis will be on the following technical
+topics listed at the end of this review sheet.
 
 ### Honor Code for the Final Examination
 
@@ -71,7 +70,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 The exam will be closed notes and closed book and it will cover the following
 materials. Please review the course schedule to see the content and slides
 that we have covered to this date. Students may post questions about this
-material to our Slack team.
+material to our Slack workspace.
 
 The exam will be a mix of questions that have a form such as short answer,
 completion, and the interpretation and creation of Markdown, HTML, and CSS
