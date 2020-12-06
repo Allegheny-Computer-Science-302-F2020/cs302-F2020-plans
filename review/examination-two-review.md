@@ -2,6 +2,27 @@
 
 ## Table of Contents
 
+* [Learning Objectives of the Course](#learning-objectives-of-the-course)
+* [Information About the Final Examination](#information-about-the-final-examination)
+  + [Examination Details](#examination-details)
+  + [Examination Overview](#examination-overview)
+  + [Honor Code for the Final Examination](#honor-code-for-the-final-examination)
+  + [Procedures for the Final Examination](#procedures-for-the-final-examination)
+* [Summary of Topics for the Final Examination](#summary-of-topics-for-the-final-examination)
+  + [Practical Experience with Web Development Tools](#practical-experience-with-web-development-tools)
+  + [Practical Experience with the Design, Implementation, and Deployment of a Web Site](#practical-experience-with-the-design-implementation-and-deployment-of-a-web-site)
+  + [Using Git Repositories and the GitHub Platform](#using-git-repositories-and-the-github-platform)
+  + [Chapter One: Introduction to Web Development](#chapter-one-introduction-to-web-development)
+  + [Chapter Two: How the Web Works](#chapter-two-how-the-web-works)
+  + [Chapter Three: Introduction to HTML](#chapter-three-introduction-to-html)
+  + [Chapter Four: Introduction to CSS](#chapter-four-introduction-to-css)
+  + [Chapter Five: HTML Tables and Forms](#chapter-five-html-tables-and-forms)
+  + [Chapter Six: Web Media](#chapter-six-web-media)
+  + [Chapter Seven: Using CSS for Layout](#chapter-seven-using-css-for-layout)
+  + [Chapter Eight: Fundamentals of JavaScript](#chapter-eight-fundamentals-of-javascript)
+  + [Chapter Nine: Advanced JavaScript Programming](#chapter-nine-advanced-javascript-programming)
+  + [Chapter Twenty: Using JavaScript Frameworks](#chapter-twenty-using-javascript-frameworks)
+  + [Chapter Eighteen: Web Security Practices](#chapter-eighteen-web-security-practices)
 
 ## Learning Objectives of the Course
 
