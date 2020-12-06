@@ -88,8 +88,8 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Using the VSCode text editor to manipulate Markdown, HTML, and CSS files
 - How to run GatorGrader in Docker to check a repository's correctness
 - How to use the Python programming language to run a local web server
-- An understanding of the characteristics, input, output, and behavior of
-  linting and testing tools for web development
+- An understanding of the input, output, and behavior of linting and testing
+  tools for web development
 - The benefits and drawbacks of performing linting and testing during web
   development
 
@@ -104,6 +104,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   preview builds
 - How to use GitHub and Netlify to deploy a web site to Netlify's content
   delivery network
+- The benefits of deploying static HTML to a content delivery network
 
 ### Using Git Repositories and the GitHub Platform
 
