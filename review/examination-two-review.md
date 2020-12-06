@@ -348,4 +348,19 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 
 ### Chapter Eighteen: Web Security Practices
 
-- 
+- The meaning of the terms "information security" and "information assurance"
+- The "CIA triad" of information security in the context of web development
+- The characteristics of web sites that are reliable and secure:
+  - Mean time to failure
+  - Mean time to repair
+  - Probability of failure
+  - Availability
+- The meaning of the terms "authentication" and "authorization" and their
+  application in the field of web development
+- How single-factor and two-factor authentication work on web sites
+- The common threat vectors on a web site and the ways in which developers can
+  best address them, including examples such as:
+  - Brute force attack
+  - SQL injection attack
+  - Cross-site scripting attack
+  - Denial of service attack
