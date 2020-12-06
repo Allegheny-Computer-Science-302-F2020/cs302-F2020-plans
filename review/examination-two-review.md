@@ -99,7 +99,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - The role that a version control system plays in the development of a web
   site
 
-## Chapter Two
+## Chapter Two: How the Web Works
 
 - An intuitive understanding of the Internet protocols supporting a connection
   to a web site
@@ -120,7 +120,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - A basic understanding of the various "application stacks" employed
   by different web servers
 
-## Chapter Three
+## Chapter Three: Introduction to HTML
 
 - The term "markup language" and a historical understand of the
   hypertext markup language
@@ -143,7 +143,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to appropriately use tools to support the development and
   debugging of web sites
 
-## Chapter Four
+## Chapter Four: Introduction to CSS
 
 - The benefits and potential challenges of using cascading style
   sheets to style a web site
@@ -170,7 +170,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to appropriately use tools to support the development and
   debugging of CSS files
 
-## Chapter Five
+## Chapter Five: HTML Tables and Forms
 
 - The way in which HTML tables support the organization of data into
   rows and columns
@@ -198,3 +198,34 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   support accessibility
 - How to appropriately use tools to support the development and
   debugging of tables and forms
+
+## Chapter Six: Web Media
+
+- The similarities and differences (and trade-offs) between raster images and
+  vector images
+- The different models (e.g., RGB and HSL) that are available for describing
+  colors in web sites
+- Meaning of terms like opacity and gradient and knowledge of how they connect
+  to web sites
+- The specific CSS source code needed to programming gradients for regions in
+  web pages
+- The similarities and differences between, for instance, linear and radial
+  background gradients
+- A basic knowledge of the relationships between colors (e.g., complementary and
+  analogous colors) and an understanding of tools that make color schemes (e.g.,
+  `http://paletton.com`)
+- The trade-offs (in, for instance, network bandwidth consumption or perceived
+  image quality) associated with resizing images using either a conversion tool
+  or HTML and CSS source code
+- The meaning "display resolution" and its connection to the monitor size that
+  displays a site
+- The meaning "viewport width" and its connection to the monitor size that
+  displays a site
+- An understanding of the file formats (and extensions) used to store
+  images used on a web site
+- The knowledge of the similarities and differences between lossy and
+  lossless image compression
+- An understanding of now image bit-depth relates the quality of an
+  image displayed on a site
+- Knowledge of the trade-offs associated with methods for organizing
+  web media into a gallery
