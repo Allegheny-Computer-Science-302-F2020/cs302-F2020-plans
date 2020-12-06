@@ -91,57 +91,54 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - The similarities and differences between an intranet and the Internet
 - The similarities and differences between static and dynamic web sites
 - An understanding of the client-server model and the "request-response" loop
-- How networks, routers, and Internet service providers enable a connection to
-  a web site
+- How networks, routers, and Internet service providers enable a connection to a
+  web site
 - The different roles and skills associated with the field of web development
-- A high-level understanding of the technologies used to create web
-  sites
-- The role that a version control system plays in the development of a web
-  site
+- A high-level understanding of the technologies used to create web sites
+- The role that a version control system plays in the development of a web site
 
 ## Chapter Two: How the Web Works
 
 - An intuitive understanding of the Internet protocols supporting a connection
   to a web site
-- How the Domain Name System supports the registration of and the
-  access to a web site
-- The meaning, purpose, and structure of a uniform resource locator
-  for a web site
-- The role that web server ports play in furnishing access to a web
+- How the Domain Name System supports the registration of and the access to a
+  web site
+- The meaning, purpose, and structure of a uniform resource locator for a web
   site
-- Details concerning the hypertext transfer protocol (HTTP) and its
-  common response codes
-- A detailed understanding of the steps that a browser takes to parse
-  HTML and handle requests
-- Knowledge of the web server's activities and the terminal-based
-  output of a web server
-- The motivation for and ways in which both web browsers and servers
-  employ caching
-- A basic understanding of the various "application stacks" employed
-  by different web servers
+- The role that web server ports play in furnishing access to a web site
+- Details concerning the hypertext transfer protocol (HTTP) and its common
+  response codes
+- A detailed understanding of the steps that a browser takes to parse HTML and
+  handle requests
+- Knowledge of the web server's activities and the terminal-based output of a
+  web server
+- The motivation for and ways in which both web browsers and servers employ
+  caching
+- A basic understanding of the various "application stacks" employed by
+  different web servers
 
 ## Chapter Three: Introduction to HTML
 
-- The term "markup language" and a historical understand of the
-  hypertext markup language
-- An understanding of the web-related terms "tag", "markup", "data",
-  and "meta data"
-- Knowledge of the terms "syntax" and "semantics" and how they connect
-  to web development
-- Familiarity with the canonical structure of an HTML file that uses
-  cascading style sheets
-- An understanding of commonly used tags in an HTML file (e.g.,
-  `<head>`, `<p>`, and `<div>`)
-- Given the directory tree for a web site, the ability to explain
-  different relative references
-- Strategies for include accessible images and international character
-  entities in web sites
-- The benefits associated with using semantic markup in the fifth
-  version of the HTML
-- The ability to use semantic markup tags to create, for instance,
-  figures and figure captions
-- How to appropriately use tools to support the development and
-  debugging of web sites
+- The term "markup language" and a historical understand of the hypertext markup
+  language
+- An understanding of the web-related terms "tag", "markup", "data", and "meta
+  data"
+- Knowledge of the terms "syntax" and "semantics" and how they connect to web
+  development
+- Familiarity with the canonical structure of an HTML file that uses cascading
+  style sheets
+- An understanding of commonly used tags in an HTML file (e.g., `<head>`, `<p>`,
+  and `<div>`)
+- Given the directory tree for a web site, the ability to explain different
+  relative references
+- Strategies for include accessible images and international character entities
+  in web sites
+- The benefits associated with using semantic markup in the fifth version of the
+  HTML
+- The ability to use semantic markup tags to create, for instance, figures and
+  figure captions
+- How to appropriately use tools to support the development and debugging of web
+  sites
 
 ## Chapter Four: Introduction to CSS
 
@@ -172,32 +169,30 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 
 ## Chapter Five: HTML Tables and Forms
 
-- The way in which HTML tables support the organization of data into
-  rows and columns
-- The meaning and behavior of the HTML tags supporting the creation of
-  tables
-- The similarities and differences between table headers, rows, and
-  data elements
-- The benefits and drawbacks associated with using tables for web page
-  layout
-- How to style HTML tables with CSS that changes, for instance, table
-  borders and backgrounds
-- An understanding of the CSS source code needed to create tables that
-  have a "zebra effect"
-- The way to create interactive tables through the use of CSS-based
-  properties for hovering
-- The meaning and behavior of the HTML tags needed to create a form in
-  a web page
-- The similarities and differences in the appearance and behavior of
-  form control elements
-- Strategies for supporting forms in a static web site that does not
-  have access to a database
-- The challenges associated with creating date and time controls in a
-  web page's form
-- The motivation for and benefits of creating tables and forms that
-  support accessibility
-- How to appropriately use tools to support the development and
-  debugging of tables and forms
+- The way in which HTML tables support the organization of data into rows and
+  columns
+- The meaning and behavior of the HTML tags supporting the creation of tables
+- The similarities and differences between table headers, rows, and data
+  elements
+- The benefits and drawbacks associated with using tables for web page layout
+- How to style HTML tables with CSS that changes, for instance, table borders
+  and backgrounds
+- An understanding of the CSS source code needed to create tables that have a
+  "zebra effect"
+- The way to create interactive tables through the use of CSS-based properties
+  for hovering
+- The meaning and behavior of the HTML tags needed to create a form in a web
+  page
+- The similarities and differences in the appearance and behavior of form
+  control elements
+- Strategies for supporting forms in a static web site that does not have access
+  to a database
+- The challenges associated with creating date and time controls in a web page's
+  form
+- The motivation for and benefits of creating tables and forms that support
+  accessibility
+- How to appropriately use tools to support the development and debugging of
+  tables and forms
 
 ## Chapter Six: Web Media
 
@@ -221,11 +216,48 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   displays a site
 - The meaning "viewport width" and its connection to the monitor size that
   displays a site
-- An understanding of the file formats (and extensions) used to store
-  images used on a web site
-- The knowledge of the similarities and differences between lossy and
-  lossless image compression
-- An understanding of now image bit-depth relates the quality of an
-  image displayed on a site
-- Knowledge of the trade-offs associated with methods for organizing
-  web media into a gallery
+- An understanding of the file formats (and extensions) used to store images
+  used on a web site
+- The knowledge of the similarities and differences between lossy and lossless
+  image compression
+- An understanding of now image bit-depth relates the quality of an image
+  displayed on a site
+- Knowledge of the trade-offs associated with methods for organizing web media
+  into a gallery
+
+## Chapter Six: Using CSS for Layout
+
+- An understanding of the term "normal flow" and how it influences the layout of
+  web elements
+- The ability to classify different HTML tags as being either block-level or
+  inline elements
+- Knowledge of both replaced inline and non-replaced inline elements and how
+  they are placed
+- Understanding of the similarities and differences associated with relative and
+  absolute position
+- The ability to write, understand, and debug CSS source code that positions
+  HTML elements
+- The knowledge of the reasons why it may be advantageous to put elements in a
+  fixed position
+- How to float HTML elements in either the entire web site or in a specific
+  container
+- The ability to understand and debug CSS source code that overlays and hides
+  HTML elements
+- A high-level understanding of the reasons why modern web sites need
+  multicolumn layouts
+- The similarities and differences between the terms "fixed layout" and "fluid
+  layout"
+- Knowledge of the problems associated with viewing a web site that has a fixed
+  or fluid layout
+- Understanding the term "viewport width" and know why it is critical in web
+  development
+- The viewport widths for browsers that would run on desktop, laptop, and mobile
+  devices
+- Knowledge of the key principles and trade-offs associated with responsive web
+  design
+- An understanding of how media queries support the implementation of
+  mobile-ready sites
+- Examples of CSS frameworks (e.g., Bootstrap) that support responsive web
+  design
+- Examples of the key features provided by CSS frameworks (e.g., grid-based
+  content layout)
