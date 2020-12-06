@@ -225,7 +225,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Knowledge of the trade-offs associated with methods for organizing web media
   into a gallery
 
-## Chapter Six: Using CSS for Layout
+## Chapter Seven: Using CSS for Layout
 
 - An understanding of the term "normal flow" and how it influences the layout of
   web elements
@@ -261,3 +261,61 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   design
 - Examples of the key features provided by CSS frameworks (e.g., grid-based
   content layout)
+
+## Chapter Eight: Fundamentals of JavaScript
+
+- The history of JavaScript and how it is similar to and different from other
+  programming languages
+- Knowledge of the different places at which a programmer can embed JavaScript
+  source code
+- The challenges and solutions associated with handling browsers that do not
+  support JavaScript
+- The variable declaration methods and data types that are available for a
+  JavaScript program
+- The similarities and differences between primitive and reference data types in
+  JavaScript
+- An understanding of the inputs, outputs, and behavior of the JavaScript
+  methods for output
+- How the JavaScript programming language supports the implementation of
+  conditional logic
+- What it means if a variable in JavaScript is described as being either
+  "truthy" or "falsy"
+- The JavaScript constructs (e.g., `while` loops) available for the support of
+  iterative computing
+- Understanding of a strategy for picking the most suitable iteration construct
+  for a web site
+- How to create, manipulate, and index arrays in the JavaScript programming
+  language
+- The ways in which JavaScript supports dynamically typed object-oriented
+  programming
+- How to declare, invoke, and test a function in the JavaScript programming
+  language
+- Understanding of the term "scope" and how it influences the use of variables
+  in JavaScript
+- Detailed knowledge of the extended example's use of JavaScript to create a
+  country gallery
+
+## Chapter Nine: Advanced JavaScript Programming
+
+- How the document object model (DOM) represents and supports the change of a
+  web site
+- Why it is suitable to represent the DOM using a hierarchical, tree-based data
+  structure
+- An understanding of DOM-related terms such as "document root" and "sibling
+  nodes"
+- How to draw the DOM tree for a provided segment of HTML source code
+- The way in which DOM methods support the selection and modification of HTML
+  elements
+- How the JavaScript language supports the change of an both element's style and
+  content
+- Knowledge of an appropriate ordering that first loads and then modifies the
+  DOM tree
+- An understanding of the three main approaches to handling events in JavaScript
+- Knowledge of the term "event-driven programming" and how it connects to
+  JavaScript
+- An understanding of the different events triggered by web site interaction
+  (e.g., `click`)
+- The ways in which JavaScript supports the validation of the content input into
+  a form
+- How the JavaScript programming language supports asynchronous data requests
+  through the use of the asynchronous JavaScript and XML (AJAX) framework
