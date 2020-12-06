@@ -31,7 +31,7 @@ The exam will be a mix of questions that have a form such as short answer,
 completion, and the interpretation and creation of Markdown, HTML, CSS, and
 JavaScript source code. The final examination is comprehensive, meaning that it
 covers all of the content that we studied in this course in the class sessions
-and laboratory, assignments. The emphasis will be on the following technical
+and laboratory assignments. The emphasis will be on the following technical
 topics listed at the end of this review sheet.
 
 ### Honor Code for the Final Examination
